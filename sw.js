@@ -8,14 +8,15 @@
 //    hash of its contents, so a publish re-downloads only the models that actually changed.
 //  - After the game's first screen is up, the page sends 'warm' and every model not yet saved is fetched, so the
 //    second launch is fast and the whole game (later bosses too) plays offline.
-const VERSION = '20261101-031813';
+const VERSION = '20261101-034156';
 const CACHE = 'gravewired-' + VERSION;
 const MODELS_CACHE = 'gravewired-models';
 
 const CORE = ["./", "index.html", "app-icon/icon-192.png", "app-icon/icon-512.png", "app-icon/icon-maskable-512.png", "manifest.webmanifest"];
-const ASSETS = ["assets/index-CZN-_MT7.js"];
+const ASSETS = ["assets/index-HED8xKiV.js"];
 /** [path, content hash] for every file under models_opt/. */
-const MODELS = [["models_opt/bosses/B01_roadblock_A.glb", 'a362d5e16cf4'],
+const MODELS = [["art_opt/fx_atlas.webp", 'cda8ef899fb5'],
+  ["models_opt/bosses/B01_roadblock_A.glb", 'a362d5e16cf4'],
   ["models_opt/bosses/B01_roadblock_B.glb", '6a98032ded16'],
   ["models_opt/bosses/B02_brood_queen.glb", '46e891b1d2e3'],
   ["models_opt/bosses/B03_volt_king.glb", '3cdcf315cb51'],
