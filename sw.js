@@ -8,12 +8,12 @@
 //    hash of its contents, so a publish re-downloads only the models that actually changed.
 //  - After the game's first screen is up, the page sends 'warm' and every model not yet saved is fetched, so the
 //    second launch is fast and the whole game (later bosses too) plays offline.
-const VERSION = '20261101-034156';
+const VERSION = '20261101-140543';
 const CACHE = 'gravewired-' + VERSION;
 const MODELS_CACHE = 'gravewired-models';
 
 const CORE = ["./", "index.html", "app-icon/icon-192.png", "app-icon/icon-512.png", "app-icon/icon-maskable-512.png", "manifest.webmanifest"];
-const ASSETS = ["assets/index-HED8xKiV.js"];
+const ASSETS = ["assets/index-BINcDXag.js"];
 /** [path, content hash] for every file under models_opt/. */
 const MODELS = [["art_opt/fx_atlas.webp", 'cda8ef899fb5'],
   ["models_opt/bosses/B01_roadblock_A.glb", 'a362d5e16cf4'],
@@ -71,6 +71,29 @@ const MODELS = [["art_opt/fx_atlas.webp", 'cda8ef899fb5'],
   ["models_opt/enemies/E12_scavenger_A.glb", '39e7a48cb75e'],
   ["models_opt/enemies/E12_scavenger_B.glb", 'c0286c7d8c2a'],
   ["models_opt/enemies/E12_scavenger_C.glb", 'db61d6f7eaad'],
+  ["models_opt/gear/GE01_patch_suit.glb", 'ca5c953531c3'],
+  ["models_opt/gear/GE02_runner_boots.glb", '9e984fe9b8e5'],
+  ["models_opt/gear/GE03_work_gloves.glb", 'e6c03e1e5c18'],
+  ["models_opt/gear/GE04_bumper_suit.glb", 'e20813212ce6'],
+  ["models_opt/gear/GE05_drain_boots.glb", 'c79766cf51a7'],
+  ["models_opt/gear/GE06_coil_gloves.glb", '34df43798c2c'],
+  ["models_opt/gear/GE07_thorn_suit.glb", 'd064229c9f15'],
+  ["models_opt/gear/GE08_magnet_boots.glb", '8653c8f2a368'],
+  ["models_opt/gear/GE09_lab_gloves.glb", 'e25379bd3a68'],
+  ["models_opt/gear/GE10_blast_suit.glb", 'e1d31efb5bf2'],
+  ["models_opt/gear/GE11_rail_boots.glb", 'd4eb36b387b8'],
+  ["models_opt/gear/GE13_insulator_suit.glb", '70e220f54f11'],
+  ["models_opt/gear/GE14_moss_boots.glb", '17f3dd2d7dd0'],
+  ["models_opt/gear/GE15_lens_gloves.glb", 'e043e40552f3'],
+  ["models_opt/gear/GE16_medic_suit.glb", '95f0134da1d6'],
+  ["models_opt/gear/GE17_ghost_boots.glb", 'e405dad9e4ad'],
+  ["models_opt/gear/GE18_hunter_gloves.glb", 'ec73786dbafb'],
+  ["models_opt/gear/GE19_magnetweave_suit.glb", 'e78604a9e2b9'],
+  ["models_opt/gear/GE20_grav_grip_gloves.glb", 'e8325e63f8cd'],
+  ["models_opt/gear/GE21_symbiote_suit.glb", '75b80bd7c362'],
+  ["models_opt/gear/GE22_sporestep_boots.glb", '8e11e3ce7cc2'],
+  ["models_opt/gear/GE23_phase_boots.glb", 'c2c3a699e0fb'],
+  ["models_opt/gear/GE24_relay_gloves.glb", '23b507b8382c'],
   ["models_opt/heroes/H01_rook.glb", '4e0897260cd0'],
   ["models_opt/heroes/H01_rook_neon.png", 'f8365dd02404'],
   ["models_opt/heroes/H02_flux.glb", '48f1d6658d8b'],
@@ -152,7 +175,7 @@ const MODELS = [["art_opt/fx_atlas.webp", 'cda8ef899fb5'],
   ["models_opt/icons/W15_cryo_needle.webp", 'f33bfbfdaf7f'],
   ["models_opt/icons/W16_tesla_fork.webp", '1be21705ad5a'],
   ["models_opt/icons/W17_harpoon.webp", '83acfa015752'],
-  ["models_opt/icons/W18_shard_sling.webp", '302ab47ae851'],
+  ["models_opt/icons/W18_shard_sling.webp", '01739b7aa397'],
   ["models_opt/icons/W19_sonic_bell.webp", 'f1b7ed8773c2'],
   ["models_opt/icons/W20_plasma_bow.webp", 'e0b7d0250774'],
   ["models_opt/icons/W21_acid_vial.webp", 'ff4ceeee93c8'],
@@ -164,7 +187,36 @@ const MODELS = [["art_opt/fx_atlas.webp", 'cda8ef899fb5'],
   ["models_opt/icons/W27_neon_siege_bazooka.webp", '9927b882a94f'],
   ["models_opt/icons/W28_prism_lance.webp", '898da2667570'],
   ["models_opt/icons/W29_spore_cannon.webp", '0ae37802e0b5'],
-  ["models_opt/icons/W30_quantum_yoyo.webp", '8a1ab5e6f6b1']];
+  ["models_opt/icons/W30_quantum_yoyo.webp", '8a1ab5e6f6b1'],
+  ["models_opt/weapons/W01_rivet_gun.glb", 'cc9365354f75'],
+  ["models_opt/weapons/W02_scattergun.glb", 'ab9871f2eb78'],
+  ["models_opt/weapons/W03_returning_saw.glb", '4b0113574ff0'],
+  ["models_opt/weapons/W04_arc_coil.glb", '1f895d344a13'],
+  ["models_opt/weapons/W05_foam_launcher.glb", 'c9725c3100f7'],
+  ["models_opt/weapons/W06_flame_sprayer.glb", '8b213a229a52'],
+  ["models_opt/weapons/W07_scrap_mortar.glb", '9cd46e1b3bd7'],
+  ["models_opt/weapons/W08_bolt_rail.glb", 'c42a361dca32'],
+  ["models_opt/weapons/W09_magnet_puck.glb", 'd69df1b4b3ca'],
+  ["models_opt/weapons/W10_mine_dispenser.glb", '6b62effb4ec3'],
+  ["models_opt/weapons/W11_guard_drone.glb", '8cb394c5f30d'],
+  ["models_opt/weapons/W12_scrap_hammer.glb", 'b41c9886b317'],
+  ["models_opt/weapons/W13_pulse_carbine.glb", '77c135591cf2'],
+  ["models_opt/weapons/W14_prism_disc.glb", 'f8d01f29152a'],
+  ["models_opt/weapons/W15_cryo_needle.glb", '01a9b1c1825a'],
+  ["models_opt/weapons/W16_tesla_fork.glb", 'c93ca61955a5'],
+  ["models_opt/weapons/W17_harpoon.glb", 'bcf087bb12a3'],
+  ["models_opt/weapons/W19_sonic_bell.glb", '7c585d2c2721'],
+  ["models_opt/weapons/W20_plasma_bow.glb", '04c3199d1386'],
+  ["models_opt/weapons/W21_acid_vial.glb", 'aa2b671f8fe9'],
+  ["models_opt/weapons/W22_chakram.glb", '8d424fc0c7da'],
+  ["models_opt/weapons/W23_burst_nailgun.glb", '4a24f6e72421'],
+  ["models_opt/weapons/W24_gravity_wand.glb", '52b8914877b8'],
+  ["models_opt/weapons/W25_laser_ribbon.glb", 'bdaed5cd95de'],
+  ["models_opt/weapons/W26_rocket_fist.glb", '6bd51b56b2ba'],
+  ["models_opt/weapons/W27_neon_siege_bazooka.glb", 'eb0ad53aa4c8'],
+  ["models_opt/weapons/W28_prism_lance.glb", '80c443529ffd'],
+  ["models_opt/weapons/W29_spore_cannon.glb", '466a3718e164'],
+  ["models_opt/weapons/W30_quantum_yoyo.glb", '7ae0399b1951']];
 const HASH = new Map(MODELS);
 
 const scopePath = new URL(self.registration.scope).pathname;
