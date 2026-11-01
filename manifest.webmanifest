@@ -1,0 +1,17 @@
+{
+  "name": "Gravewired",
+  "short_name": "Gravewired",
+  "description": "Portrait horde survival: Arena, Reactor Raid, Defence and the World district.",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#050914",
+  "theme_color": "#050914",
+  "icons": [
+    { "src": "app-icon/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "app-icon/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "app-icon/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
