@@ -8,14 +8,51 @@
 //    hash of its contents, so a publish re-downloads only the models that actually changed.
 //  - After the game's first screen is up, the page sends 'warm' and every model not yet saved is fetched, so the
 //    second launch is fast and the whole game (later bosses too) plays offline.
-const VERSION = '20261102-054202';
+const VERSION = '20261102-055737';
 const CACHE = 'gravewired-' + VERSION;
 const MODELS_CACHE = 'gravewired-models';
 
 const CORE = ["./", "index.html", "app-icon/icon-192.png", "app-icon/icon-512.png", "app-icon/icon-maskable-512.png", "manifest.webmanifest"];
-const ASSETS = ["assets/index-32vcf3hs.js"];
+const ASSETS = ["assets/index-DTndcrfz.js"];
 /** [path, content hash] for every file under models_opt/. */
-const MODELS = [["art_opt/fx_atlas.webp", 'cda8ef899fb5'],
+const MODELS = [["art_opt/fx_atlas.webp", 'd644954dfb1d'],
+  ["art_opt/ui/boss_portrait_frame.webp", '79891122ed99'],
+  ["art_opt/ui/bottom_sheet_panel.webp", '64d42331461d'],
+  ["art_opt/ui/destructive_button.webp", '929200fb5471'],
+  ["art_opt/ui/enemy_portrait_frame.webp", '18dbfd323133'],
+  ["art_opt/ui/event_item_frame.webp", 'd6ae8133e7f3'],
+  ["art_opt/ui/event_shop_tile.webp", 'e329cdde4999'],
+  ["art_opt/ui/focus_bracket.webp", '40922201cc7d'],
+  ["art_opt/ui/free_reward_cell.webp", 'ad9e481d1433'],
+  ["art_opt/ui/graffiti_splash.webp", 'c2d483c79c46'],
+  ["art_opt/ui/health_bar_track.webp", 'f40d32db26ea'],
+  ["art_opt/ui/hero_portrait_frame.webp", '3f2406fc0c4a'],
+  ["art_opt/ui/icon_button.webp", 'a9831cc7fa6f'],
+  ["art_opt/ui/item_card.webp", '7e7e72b0f05f'],
+  ["art_opt/ui/joystick_base.webp", '033dcec381d7'],
+  ["art_opt/ui/joystick_knob.webp", '1ef8c0bb31d0'],
+  ["art_opt/ui/metal_divider.webp", '1cc4f1094176'],
+  ["art_opt/ui/modal_panel.webp", 'a95f30e5886e'],
+  ["art_opt/ui/neon_corner.webp", 'ce46aeeddafb'],
+  ["art_opt/ui/ordinary_item_frame.webp", '35b6511fdd96'],
+  ["art_opt/ui/overdrive_bar_track.webp", '1ac3d97ae6a4'],
+  ["art_opt/ui/paid_reward_cell.webp", '35a77225123a'],
+  ["art_opt/ui/pass_header_trim.webp", 'b8bb69e56e86'],
+  ["art_opt/ui/primary_button.webp", 'ef7e35e209f6'],
+  ["art_opt/ui/relic_frame.webp", '2eccdbe6290a'],
+  ["art_opt/ui/reward_card.webp", 'e24453ad1198'],
+  ["art_opt/ui/round_action_button.webp", '2bbc711284ff'],
+  ["art_opt/ui/secondary_button.webp", 'e2890015273f'],
+  ["art_opt/ui/selection_ring.webp", '5aab56b66533'],
+  ["art_opt/ui/shield_bar_track.webp", '01948252fea8'],
+  ["art_opt/ui/small_tab.webp", '3496ff01f60d'],
+  ["art_opt/ui/stage_node.webp", '5a6a4a472158'],
+  ["art_opt/ui/star_socket.webp", '8d87e193c056'],
+  ["art_opt/ui/toast_panel.webp", 'dc3be60d4ad6'],
+  ["art_opt/ui/tooltip_panel.webp", 'fe5063ba376b'],
+  ["art_opt/ui/torn_tape_strip.webp", '323acc42bb6a'],
+  ["art_opt/ui/xp_bar_track.webp", '933c4ecd24d2'],
+  ["art_opt/ui_icons.webp", '38c8750d07f2'],
   ["models_opt/bosses/B01_roadblock_A.glb", 'a362d5e16cf4'],
   ["models_opt/bosses/B01_roadblock_B.glb", '6a98032ded16'],
   ["models_opt/bosses/B02_brood_queen.glb", '46e891b1d2e3'],
