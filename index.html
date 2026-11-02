@@ -22,10 +22,19 @@
         -webkit-user-select: none; user-select: none; -webkit-touch-callout: none; -webkit-tap-highlight-color: transparent; }
       #game { position: relative; overflow: hidden; }
       #game canvas { display: block; touch-action: none; }
+      /* held upright in the browser: ask for sideways (the installed app is locked to landscape) */
+      #rotate { position: fixed; inset: 0; z-index: 100; display: none; flex-direction: column; align-items: center; justify-content: center;
+        gap: 18px; background: #050914; color: #fff; font: 700 24px system-ui, sans-serif; text-align: center; padding: 24px; }
+      #rotate .ph { width: 64px; height: 108px; border: 5px solid #22e3ff; border-radius: 14px; box-shadow: 0 0 18px #22e3ff;
+        animation: gw-turn 2.2s ease-in-out infinite; }
+      #rotate small { color: #9fb3e0; font-size: 17px; font-weight: 600; }
+      @keyframes gw-turn { 0%, 25% { transform: rotate(0deg); } 55%, 100% { transform: rotate(-90deg); } }
+      @media (orientation: portrait) { #rotate { display: flex; } }
     </style>
-    <script type="module" crossorigin src="./assets/index-BINcDXag.js"></script>
+    <script type="module" crossorigin src="./assets/index-32vcf3hs.js"></script>
   </head>
   <body>
     <div id="game"></div>
+    <div id="rotate"><div class="ph"></div>Turn your phone sideways<small>Gravewired plays in landscape</small></div>
   </body>
 </html>

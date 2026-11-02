@@ -1,12 +1,12 @@
 {
   "name": "Gravewired",
   "short_name": "Gravewired",
-  "description": "Portrait horde survival: Arena, Reactor Raid, Defence and the World district.",
+  "description": "Landscape horde survival: Arena, Reactor Raid, Defence and the World district.",
   "id": "./",
   "start_url": "./index.html",
   "scope": "./",
   "display": "fullscreen",
-  "orientation": "portrait",
+  "orientation": "landscape",
   "background_color": "#050914",
   "theme_color": "#050914",
   "icons": [
