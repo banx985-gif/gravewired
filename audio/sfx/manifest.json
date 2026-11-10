@@ -1,0 +1,967 @@
+{
+ "W01_rivet_gun": {
+  "group": "weapons",
+  "files": [
+   "W01_rivet_gun_1.ogg",
+   "W01_rivet_gun_2.ogg",
+   "W01_rivet_gun_3.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Gun Sound Pack/Gun/gun_pistol_shot_01.wav",
+   "Gamemaster Audio - Gun Sound Pack/Gun/gun_pistol_shot_02.wav",
+   "Gamemaster Audio - Gun Sound Pack/Gun/gun_pistol_shot_03.wav"
+  ]
+ },
+ "W02_scattergun": {
+  "group": "weapons",
+  "files": [
+   "W02_scattergun_1.ogg",
+   "W02_scattergun_2.ogg",
+   "W02_scattergun_3.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Gun Sound Pack/Gun/gun_shotgun_shot_01.wav",
+   "Gamemaster Audio - Gun Sound Pack/Gun/gun_shotgun_shot_02.wav",
+   "Gamemaster Audio - Gun Sound Pack/Gun/gun_shotgun_shot_03.wav"
+  ]
+ },
+ "W03_returning_saw": {
+  "group": "weapons",
+  "files": [
+   "W03_returning_saw_1.ogg",
+   "W03_returning_saw_2.ogg",
+   "W03_returning_saw_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Torsion Gun/LASRGun_Torsion Gun Fire_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Torsion Gun/LASRGun_Torsion Gun Fire_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Torsion Gun/LASRGun_Torsion Gun Fire_03.wav"
+  ]
+ },
+ "W04_arc_coil": {
+  "group": "weapons",
+  "files": [
+   "W04_arc_coil_1.ogg",
+   "W04_arc_coil_2.ogg",
+   "W04_arc_coil_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Gauss Cannon/ELECArc_Gauss Cannon Electric Arc_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Gauss Cannon/ELECArc_Gauss Cannon Electric Arc_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Gauss Cannon/ELECArc_Gauss Cannon Electric Arc_03.wav"
+  ]
+ },
+ "W05_foam_launcher": {
+  "group": "weapons",
+  "files": [
+   "W05_foam_launcher_1.ogg",
+   "W05_foam_launcher_2.ogg",
+   "W05_foam_launcher_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Gel Blaster/GUNMisc_Gel Blaster Fire B_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Gel Blaster/GUNMisc_Gel Blaster Fire B_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Gel Blaster/GUNMisc_Gel Blaster Fire B_03.wav"
+  ]
+ },
+ "W06_flame_sprayer": {
+  "group": "weapons",
+  "files": [
+   "W06_flame_sprayer_1.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/z150_Bonus_Sounds/gas_large_flame_ignite_02.wav"
+  ]
+ },
+ "W07_scrap_mortar": {
+  "group": "weapons",
+  "files": [
+   "W07_scrap_mortar_1.ogg",
+   "W07_scrap_mortar_2.ogg",
+   "W07_scrap_mortar_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Grenade Launcher/GUNArtl_Grenade Launcher Fire Heavy_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Grenade Launcher/GUNArtl_Grenade Launcher Fire Heavy_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Grenade Launcher/GUNArtl_Grenade Launcher Fire Heavy_03.wav"
+  ]
+ },
+ "W08_bolt_rail": {
+  "group": "weapons",
+  "files": [
+   "W08_bolt_rail_1.ogg",
+   "W08_bolt_rail_2.ogg",
+   "W08_bolt_rail_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Sniper Cannon/SCIMisc_Sniper Cannon_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Sniper Cannon/SCIMisc_Sniper Cannon_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Sniper Cannon/SCIMisc_Sniper Cannon_03.wav"
+  ]
+ },
+ "W09_magnet_puck": {
+  "group": "weapons",
+  "files": [
+   "W09_magnet_puck_1.ogg",
+   "W09_magnet_puck_2.ogg",
+   "W09_magnet_puck_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Energy Orb/SCIEnrg_Energy Orb_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Energy Orb/SCIEnrg_Energy Orb_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Energy Orb/SCIEnrg_Energy Orb_03.wav"
+  ]
+ },
+ "W10_mine_dispenser": {
+  "group": "weapons",
+  "files": [
+   "W10_mine_dispenser_1.ogg",
+   "W10_mine_dispenser_2.ogg",
+   "W10_mine_dispenser_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Mine/MECHClik_Mine Deploy_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Mine/MECHClik_Mine Deploy_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Mine/MECHClik_Mine Deploy_03.wav"
+  ]
+ },
+ "W11_guard_drone": {
+  "group": "weapons",
+  "files": [
+   "W11_guard_drone_1.ogg",
+   "W11_guard_drone_2.ogg",
+   "W11_guard_drone_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Classic Blaster B/LASRGun_Classic Blaster B Fire_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Classic Blaster B/LASRGun_Classic Blaster B Fire_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Classic Blaster B/LASRGun_Classic Blaster B Fire_03.wav"
+  ]
+ },
+ "W12_scrap_hammer": {
+  "group": "weapons",
+  "files": [
+   "W12_scrap_hammer_1.ogg",
+   "W12_scrap_hammer_2.ogg",
+   "W12_scrap_hammer_3.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/z150_Bonus_Sounds/punch_grit_wet_impact_01.wav",
+   "Gamemaster Audio - Fun Casual Sounds/z150_Bonus_Sounds/punch_grit_wet_impact_02.wav",
+   "Gamemaster Audio - Fun Casual Sounds/z150_Bonus_Sounds/punch_grit_wet_impact_03.wav"
+  ]
+ },
+ "W13_pulse_carbine": {
+  "group": "weapons",
+  "files": [
+   "W13_pulse_carbine_1.ogg",
+   "W13_pulse_carbine_2.ogg",
+   "W13_pulse_carbine_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Classic Laser Gun A/LASRGun_Classic Laser Gun A Fire_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Classic Laser Gun A/LASRGun_Classic Laser Gun A Fire_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Classic Laser Gun A/LASRGun_Classic Laser Gun A Fire_03.wav"
+  ]
+ },
+ "W14_prism_disc": {
+  "group": "weapons",
+  "files": [
+   "W14_prism_disc_1.ogg",
+   "W14_prism_disc_2.ogg",
+   "W14_prism_disc_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Flanger Pistol/LASRGun_Flanger Pistol Fire_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Flanger Pistol/LASRGun_Flanger Pistol Fire_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Flanger Pistol/LASRGun_Flanger Pistol Fire_03.wav"
+  ]
+ },
+ "W15_cryo_needle": {
+  "group": "weapons",
+  "files": [
+   "W15_cryo_needle_1.ogg",
+   "W15_cryo_needle_2.ogg",
+   "W15_cryo_needle_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Silenced Blaster/LASRGun_Silenced Blaster Fire Reflections_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Silenced Blaster/LASRGun_Silenced Blaster Fire Reflections_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Silenced Blaster/LASRGun_Silenced Blaster Fire Reflections_03.wav"
+  ]
+ },
+ "W16_tesla_fork": {
+  "group": "weapons",
+  "files": [
+   "W16_tesla_fork_1.ogg",
+   "W16_tesla_fork_2.ogg",
+   "W16_tesla_fork_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Electron Impeller/LASRGun_Electron Impeller Fire_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Electron Impeller/LASRGun_Electron Impeller Fire_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Electron Impeller/LASRGun_Electron Impeller Fire_03.wav"
+  ]
+ },
+ "W17_harpoon": {
+  "group": "weapons",
+  "files": [
+   "W17_harpoon_1.ogg",
+   "W17_harpoon_2.ogg",
+   "W17_harpoon_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Ballista/LASRGun_Ballista Fire Long Doubled_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Ballista/LASRGun_Ballista Fire Long_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Ballista/LASRGun_Ballista Fire Long_02.wav"
+  ]
+ },
+ "W18_shard_sling": {
+  "group": "weapons",
+  "files": [
+   "W18_shard_sling_1.ogg",
+   "W18_shard_sling_2.ogg",
+   "W18_shard_sling_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Hephaestus/LASRGun_ Hephaestus Fire Metallic_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Hephaestus/LASRGun_ Hephaestus Fire Metallic_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Hephaestus/LASRGun_ Hephaestus Fire Metallic_03.wav"
+  ]
+ },
+ "W19_sonic_bell": {
+  "group": "weapons",
+  "files": [
+   "W19_sonic_bell_1.ogg",
+   "W19_sonic_bell_2.ogg",
+   "W19_sonic_bell_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Shockwave/EXPLDsgn_Shockwave Blast_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Shockwave/EXPLDsgn_Shockwave Blast_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Shockwave/EXPLDsgn_Shockwave Blast_03.wav"
+  ]
+ },
+ "W20_plasma_bow": {
+  "group": "weapons",
+  "files": [
+   "W20_plasma_bow_1.ogg",
+   "W20_plasma_bow_2.ogg",
+   "W20_plasma_bow_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Loki/LASRGun_Loki Single_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Loki/LASRGun_Loki Single_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Loki/LASRGun_Loki Single_03.wav"
+  ]
+ },
+ "W21_acid_vial": {
+  "group": "weapons",
+  "files": [
+   "W21_acid_vial_1.ogg",
+   "W21_acid_vial_2.ogg",
+   "W21_acid_vial_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Goo Splatter/LIQImpt_Goo Splatter_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Goo Splatter/LIQImpt_Goo Splatter_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Goo Splatter/LIQImpt_Goo Splatter_03.wav"
+  ]
+ },
+ "W22_chakram": {
+  "group": "weapons",
+  "files": [
+   "W22_chakram_1.ogg",
+   "W22_chakram_2.ogg",
+   "W22_chakram_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Valkyrie/LASRGun_Valkyrie_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Valkyrie/LASRGun_Valkyrie_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Valkyrie/LASRGun_Valkyrie_03.wav"
+  ]
+ },
+ "W23_burst_nailgun": {
+  "group": "weapons",
+  "files": [
+   "W23_burst_nailgun_1.ogg",
+   "W23_burst_nailgun_2.ogg",
+   "W23_burst_nailgun_3.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Gun Sound Pack/Gun/gun_submachine_auto_shot_00_automatic_preview_01.wav",
+   "Gamemaster Audio - Gun Sound Pack/Gun/gun_submachine_auto_shot_00_first_01.wav",
+   "Gamemaster Audio - Gun Sound Pack/Gun/gun_submachine_auto_shot_00_last_with_tail_01.wav"
+  ]
+ },
+ "W24_gravity_wand": {
+  "group": "weapons",
+  "files": [
+   "W24_gravity_wand_1.ogg",
+   "W24_gravity_wand_2.ogg",
+   "W24_gravity_wand_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Erebus/LASRGun_Erebus Fire_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Erebus/LASRGun_Erebus Fire_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Erebus/LASRGun_Erebus Fire_03.wav"
+  ]
+ },
+ "W25_laser_ribbon": {
+  "group": "weapons",
+  "files": [
+   "W25_laser_ribbon_1.ogg",
+   "W25_laser_ribbon_2.ogg",
+   "W25_laser_ribbon_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Hyperion/LASRGun_Hyperion Fire_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Hyperion/LASRGun_Hyperion Fire_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Hyperion/LASRGun_Hyperion Fire_03.wav"
+  ]
+ },
+ "W26_rocket_fist": {
+  "group": "weapons",
+  "files": [
+   "W26_rocket_fist_1.ogg",
+   "W26_rocket_fist_2.ogg",
+   "W26_rocket_fist_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Rocket Launcher/GUNArtl_Rocket Launcher Fire_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Rocket Launcher/GUNArtl_Rocket Launcher Fire_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Rocket Launcher/GUNArtl_Rocket Launcher Fire_03.wav"
+  ]
+ },
+ "W27_neon_siege_bazooka": {
+  "group": "weapons",
+  "files": [
+   "W27_neon_siege_bazooka_1.ogg",
+   "W27_neon_siege_bazooka_2.ogg",
+   "W27_neon_siege_bazooka_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Quad Cannon/GUNCano_Quad Cannon Fire_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Quad Cannon/GUNCano_Quad Cannon Fire_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Quad Cannon/GUNCano_Quad Cannon Fire_03.wav"
+  ]
+ },
+ "W28_prism_lance": {
+  "group": "weapons",
+  "files": [
+   "W28_prism_lance_1.ogg",
+   "W28_prism_lance_2.ogg",
+   "W28_prism_lance_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Particle Compressor/LASRGun_Particle Compressor Fire_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Particle Compressor/LASRGun_Particle Compressor Fire_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Particle Compressor/LASRGun_Particle Compressor Fire_03.wav"
+  ]
+ },
+ "W29_spore_cannon": {
+  "group": "weapons",
+  "files": [
+   "W29_spore_cannon_1.ogg",
+   "W29_spore_cannon_2.ogg",
+   "W29_spore_cannon_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Gel Cannon/GUNMisc_Gel Cannon Burst_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Gel Cannon/GUNMisc_Gel Cannon Burst_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Gel Cannon/GUNMisc_Gel Cannon Burst_03.wav"
+  ]
+ },
+ "W30_quantum_yoyo": {
+  "group": "weapons",
+  "files": [
+   "W30_quantum_yoyo_1.ogg",
+   "W30_quantum_yoyo_2.ogg",
+   "W30_quantum_yoyo_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Energon/LASRGun_Energon_Fire_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Energon/LASRGun_Energon_Fire_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Weapons/Energon/LASRGun_Energon_Fire_03.wav"
+  ]
+ },
+ "hit_marker": {
+  "group": "combat",
+  "files": [
+   "hit_marker_1.ogg",
+   "hit_marker_2.ogg",
+   "hit_marker_3.ogg",
+   "hit_marker_4.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Hit Markers/BLLTImpt_Hit Marker_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Hit Markers/BLLTImpt_Hit Marker_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Hit Markers/BLLTImpt_Hit Marker_03.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Hit Markers/BLLTImpt_Hit Marker_04.wav"
+  ]
+ },
+ "impact": {
+  "group": "combat",
+  "files": [
+   "impact_1.ogg",
+   "impact_2.ogg",
+   "impact_3.ogg",
+   "impact_4.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Impact/BLLTImpt_Beam Impact Flesh_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Impact/BLLTImpt_Beam Impact Flesh_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Impact/BLLTImpt_Beam Impact Flesh_03.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Impact/BLLTImpt_Beam Impact Flesh_04.wav"
+  ]
+ },
+ "kill_confirm": {
+  "group": "combat",
+  "files": [
+   "kill_confirm_1.ogg",
+   "kill_confirm_2.ogg",
+   "kill_confirm_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Kill Confirm/DSGNMisc_Kill Confirm Metallic_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Kill Confirm/DSGNMisc_Kill Confirm Metallic_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Kill Confirm/DSGNMisc_Kill Confirm Metallic_03.wav"
+  ]
+ },
+ "limb_off": {
+  "group": "combat",
+  "files": [
+   "limb_off_1.ogg",
+   "limb_off_2.ogg",
+   "limb_off_3.ogg",
+   "limb_off_4.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Giblets/GORESplt_Giblet Splatter_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Giblets/GORESplt_Giblet Splatter_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Giblets/GORESplt_Giblet Splatter_03.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Giblets/GORESplt_Giblet Splatter_04.wav"
+  ]
+ },
+ "goo_splat": {
+  "group": "combat",
+  "files": [
+   "goo_splat_1.ogg",
+   "goo_splat_2.ogg",
+   "goo_splat_3.ogg",
+   "goo_splat_4.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Goo Splatter/LIQImpt_Goo Splatter_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Goo Splatter/LIQImpt_Goo Splatter_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Goo Splatter/LIQImpt_Goo Splatter_03.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Goo Splatter/LIQImpt_Goo Splatter_04.wav"
+  ]
+ },
+ "shield": {
+  "group": "combat",
+  "files": [
+   "shield_1.ogg",
+   "shield_2.ogg",
+   "shield_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Shield/SCIEnrg_Shield Activate Deactivate_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Shield/SCIEnrg_Shield Activate Deactivate_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Shield/SCIEnrg_Shield Activate Deactivate_03.wav"
+  ]
+ },
+ "boss_charge": {
+  "group": "combat",
+  "files": [
+   "boss_charge_1.ogg",
+   "boss_charge_2.ogg",
+   "boss_charge_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Charge/SCIMisc_Charge Weapon_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Charge/SCIMisc_Charge Weapon_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Charge/SCIMisc_Charge Weapon_03.wav"
+  ]
+ },
+ "warning_tell": {
+  "group": "combat",
+  "files": [
+   "warning_tell_1.ogg",
+   "warning_tell_2.ogg",
+   "warning_tell_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Targeting/BEEP_Targeting Beep_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Targeting/BEEP_Targeting Beep_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Targeting/BEEP_Targeting Beep_03.wav"
+  ]
+ },
+ "gadget_ready": {
+  "group": "combat",
+  "files": [
+   "gadget_ready_1.ogg",
+   "gadget_ready_2.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Cooldown/SCIMisc_Cooldown_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Cooldown/SCIMisc_Cooldown_02.wav"
+  ]
+ },
+ "gadget_use": {
+  "group": "combat",
+  "files": [
+   "gadget_use_1.ogg",
+   "gadget_use_2.ogg",
+   "gadget_use_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Arm Weapon/GUNMech_Arm Weapon Rattle_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Arm Weapon/GUNMech_Arm Weapon Rattle_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Arm Weapon/GUNMech_Arm Weapon Rattle_03.wav"
+  ]
+ },
+ "enemy_vocal": {
+  "group": "combat",
+  "files": [
+   "enemy_vocal_1.ogg",
+   "enemy_vocal_2.ogg",
+   "enemy_vocal_3.ogg",
+   "enemy_vocal_4.ogg",
+   "enemy_vocal_5.ogg",
+   "enemy_vocal_6.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Vocalisation/ANMLBat_Creature Vocalisation_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Vocalisation/ANMLBat_Creature Vocalisation_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Vocalisation/ANMLBat_Creature Vocalisation_03.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Vocalisation/ANMLBat_Creature Vocalisation_04.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Vocalisation/ANMLBat_Creature Vocalisation_05.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Support Material/Vocalisation/CREAMnstr_Beast Vocalisation_01.wav"
+  ]
+ },
+ "beam_loop": {
+  "group": "combat",
+  "files": [
+   "beam_loop_1.ogg",
+   "beam_loop_2.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Beams/Beam Loops/LASRBeam_Laser Loop_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Beams/Beam Loops/LASRBeam_Laser Loop_02.wav"
+  ]
+ },
+ "hero_hurt": {
+  "group": "player",
+  "files": [
+   "hero_hurt_1.ogg",
+   "hero_hurt_2.ogg",
+   "hero_hurt_3.ogg",
+   "hero_hurt_4.ogg",
+   "hero_hurt_5.ogg"
+  ],
+  "source": [
+   "Voices - Young Male Hero/Young male hero - Copy/Hurt 1.wav",
+   "Voices - Young Male Hero/Young male hero - Copy/Hurt 10.wav",
+   "Voices - Young Male Hero/Young male hero - Copy/Hurt 2.wav",
+   "Voices - Young Male Hero/Young male hero - Copy/Hurt 3.wav",
+   "Voices - Young Male Hero/Young male hero - Copy/Hurt 4.wav"
+  ]
+ },
+ "hero_death": {
+  "group": "player",
+  "files": [
+   "hero_death_1.ogg",
+   "hero_death_2.ogg",
+   "hero_death_3.ogg"
+  ],
+  "source": [
+   "Voices - Young Male Hero/Young male hero - Copy/Death moan 1.wav",
+   "Voices - Young Male Hero/Young male hero - Copy/Death moan 2.wav",
+   "Voices - Young Male Hero/Young male hero - Copy/Death moan 3.wav"
+  ]
+ },
+ "hero_found_it": {
+  "group": "player",
+  "files": [
+   "hero_found_it_1.ogg",
+   "hero_found_it_2.ogg",
+   "hero_found_it_3.ogg"
+  ],
+  "source": [
+   "Voices - Young Male Hero/Young male hero - Copy/Found it 1.wav",
+   "Voices - Young Male Hero/Young male hero - Copy/Found it 2.wav",
+   "Voices - Young Male Hero/Young male hero - Copy/Found it 3.wav"
+  ]
+ },
+ "hero_health": {
+  "group": "player",
+  "files": [
+   "hero_health_1.ogg",
+   "hero_health_2.ogg",
+   "hero_health_3.ogg"
+  ],
+  "source": [
+   "Voices - Young Male Hero/Young male hero - Copy/Health 1.wav",
+   "Voices - Young Male Hero/Young male hero - Copy/Health 2.wav",
+   "Voices - Young Male Hero/Young male hero - Copy/Health 3.wav"
+  ]
+ },
+ "dodge": {
+  "group": "player",
+  "files": [
+   "dodge_1.ogg",
+   "dodge_2.ogg",
+   "dodge_3.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/z150_Bonus_Sounds/whoosh_swish_small_01.wav",
+   "Gamemaster Audio - Fun Casual Sounds/z150_Bonus_Sounds/whoosh_swish_small_02.wav",
+   "Gamemaster Audio - Fun Casual Sounds/z150_Bonus_Sounds/whoosh_swish_small_03.wav"
+  ]
+ },
+ "xp_gem": {
+  "group": "pickups",
+  "files": [
+   "xp_gem_1.ogg",
+   "xp_gem_2.ogg",
+   "xp_gem_3.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/Collectibles_Items_Powerup/collect_item_sparkle_pop_01.wav",
+   "Gamemaster Audio - Fun Casual Sounds/Collectibles_Items_Powerup/collect_item_sparkle_pop_02.wav",
+   "Gamemaster Audio - Fun Casual Sounds/Collectibles_Items_Powerup/collect_item_sparkle_pop_03.wav"
+  ]
+ },
+ "credits": {
+  "group": "pickups",
+  "files": [
+   "credits_1.ogg",
+   "credits_2.ogg",
+   "credits_3.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/Collectibles_Items_Powerup/collect_coin_01.wav",
+   "Gamemaster Audio - Fun Casual Sounds/Collectibles_Items_Powerup/collect_coin_02.wav",
+   "Gamemaster Audio - Fun Casual Sounds/Collectibles_Items_Powerup/collect_coin_03.wav"
+  ]
+ },
+ "item_get": {
+  "group": "pickups",
+  "files": [
+   "item_get_1.ogg",
+   "item_get_2.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/Collectibles_Items_Powerup/happy_collect_item_01.wav",
+   "Gamemaster Audio - Fun Casual Sounds/Collectibles_Items_Powerup/happy_collect_item_02.wav"
+  ]
+ },
+ "reward_chest": {
+  "group": "pickups",
+  "files": [
+   "reward_chest_1.ogg",
+   "reward_chest_2.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/Collectibles_Items_Powerup/collectable_item_bonus_01.wav",
+   "Gamemaster Audio - Fun Casual Sounds/Collectibles_Items_Powerup/collectable_item_bonus_02.wav"
+  ]
+ },
+ "counter_tick": {
+  "group": "pickups",
+  "files": [
+   "counter_tick_1.ogg",
+   "counter_tick_2.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/Collectibles_Items_Powerup/points_ticker_bonus_score_reward_single_01.wav",
+   "Gamemaster Audio - Fun Casual Sounds/Collectibles_Items_Powerup/points_ticker_bonus_score_reward_single_02.wav"
+  ]
+ },
+ "level_up": {
+  "group": "pickups",
+  "files": [
+   "level_up_1.ogg",
+   "level_up_2.ogg",
+   "level_up_3.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/Collectibles_Items_Powerup/jingle_chime_01_positive.wav",
+   "Gamemaster Audio - Fun Casual Sounds/Collectibles_Items_Powerup/jingle_chime_02_positive.wav",
+   "Gamemaster Audio - Fun Casual Sounds/Collectibles_Items_Powerup/jingle_chime_03_positive.wav"
+  ]
+ },
+ "fail": {
+  "group": "pickups",
+  "files": [
+   "fail_1.ogg",
+   "fail_2.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/Collectibles_Items_Powerup/jingle_chime_16_negative.wav",
+   "Gamemaster Audio - Fun Casual Sounds/Collectibles_Items_Powerup/jingle_chime_17_negative.wav"
+  ]
+ },
+ "run_over": {
+  "group": "pickups",
+  "files": [
+   "run_over_1.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/Collectibles_Items_Powerup/game_over_dark_bell_chime_01.wav"
+  ]
+ },
+ "power_up": {
+  "group": "pickups",
+  "files": [
+   "power_up_1.ogg",
+   "power_up_2.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/z150_Bonus_Sounds/sci-fi_power_up_02.wav",
+   "Gamemaster Audio - Fun Casual Sounds/z150_Bonus_Sounds/sci-fi_power_up_03.wav"
+  ]
+ },
+ "ui_tap": {
+  "group": "ui",
+  "files": [
+   "ui_tap_1.ogg",
+   "ui_tap_2.ogg",
+   "ui_tap_3.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/User_Interface_Menu/ui_menu_button_click_01.wav",
+   "Gamemaster Audio - Fun Casual Sounds/User_Interface_Menu/ui_menu_button_click_02.wav",
+   "Gamemaster Audio - Fun Casual Sounds/User_Interface_Menu/ui_menu_button_click_03.wav"
+  ]
+ },
+ "ui_confirm": {
+  "group": "ui",
+  "files": [
+   "ui_confirm_1.ogg",
+   "ui_confirm_2.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/User_Interface_Menu/ui_menu_button_confirm_01.wav",
+   "Gamemaster Audio - Fun Casual Sounds/User_Interface_Menu/ui_menu_button_confirm_02.wav"
+  ]
+ },
+ "ui_back": {
+  "group": "ui",
+  "files": [
+   "ui_back_1.ogg",
+   "ui_back_2.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/User_Interface_Menu/ui_menu_button_cancel_01.wav",
+   "Gamemaster Audio - Fun Casual Sounds/User_Interface_Menu/ui_menu_button_cancel_02.wav"
+  ]
+ },
+ "ui_error": {
+  "group": "ui",
+  "files": [
+   "ui_error_1.ogg",
+   "ui_error_2.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/User_Interface_Menu/ui_menu_button_error_01.wav",
+   "Gamemaster Audio - Fun Casual Sounds/User_Interface_Menu/ui_menu_button_error_02.wav"
+  ]
+ },
+ "ui_popup": {
+  "group": "ui",
+  "files": [
+   "ui_popup_1.ogg",
+   "ui_popup_2.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/User_Interface_Menu/ui_menu_popup_message_01.wav",
+   "Gamemaster Audio - Fun Casual Sounds/User_Interface_Menu/ui_menu_popup_message_02.wav"
+  ]
+ },
+ "ui_popup_reward": {
+  "group": "ui",
+  "files": [
+   "ui_popup_reward_1.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/User_Interface_Menu/ui_menu_popup_message_reward_01.wav"
+  ]
+ },
+ "ui_page": {
+  "group": "ui",
+  "files": [
+   "ui_page_1.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/User_Interface_Menu/ui_menu_button_scroll_whoosh_01.wav"
+  ]
+ },
+ "vault_open": {
+  "group": "world",
+  "files": [
+   "vault_open_1.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/z150_Bonus_Sounds/metal_door_hatch_open_squeak_02.wav"
+  ]
+ },
+ "vault_lock": {
+  "group": "world",
+  "files": [
+   "vault_lock_1.ogg",
+   "vault_lock_2.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/z150_Bonus_Sounds/door_lock_close_01.wav",
+   "Gamemaster Audio - Fun Casual Sounds/z150_Bonus_Sounds/door_lock_close_02.wav"
+  ]
+ },
+ "door_locked": {
+  "group": "world",
+  "files": [
+   "door_locked_1.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/z150_Bonus_Sounds/door_lock_fail_01.wav"
+  ]
+ },
+ "switch_on": {
+  "group": "world",
+  "files": [
+   "switch_on_1.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/z150_Bonus_Sounds/sci-fi_power_on_rise_beep_01.wav"
+  ]
+ },
+ "scan": {
+  "group": "world",
+  "files": [
+   "scan_1.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/z150_Bonus_Sounds/sci-fi_scan_target_05.wav"
+  ]
+ },
+ "alarm_loop": {
+  "group": "world",
+  "files": [
+   "alarm_loop_1.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/z150_Bonus_Sounds/alarm_siren_loop_01.wav"
+  ]
+ },
+ "ambience_dystopia": {
+  "group": "world",
+  "files": [
+   "ambience_dystopia_1.ogg",
+   "ambience_dystopia_2.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Bonus Dystopia Ambiences/AMBIENCE_HEAVY_DOWNPOUR_LOOP.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Bonus Dystopia Ambiences/AMBIENCE_SPACECRAFT_INTERIOR_LOOP.wav"
+  ]
+ },
+ "crane_clunk": {
+  "group": "events",
+  "files": [
+   "crane_clunk_1.ogg",
+   "crane_clunk_2.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/z150_Bonus_Sounds/metal_lid_movement_impact_01.wav",
+   "Gamemaster Audio - Fun Casual Sounds/z150_Bonus_Sounds/metal_lid_movement_impact_02.wav"
+  ]
+ },
+ "lab_pour": {
+  "group": "events",
+  "files": [
+   "lab_pour_1.ogg",
+   "lab_pour_2.ogg",
+   "lab_pour_3.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/Comedy_Cartoon/bubble_effect_01.wav",
+   "Gamemaster Audio - Fun Casual Sounds/Comedy_Cartoon/bubble_effect_02.wav",
+   "Gamemaster Audio - Fun Casual Sounds/Comedy_Cartoon/bubble_effect_03.wav"
+  ]
+ },
+ "drone_step": {
+  "group": "events",
+  "files": [
+   "drone_step_1.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/z150_Bonus_Sounds/sci-fi_driod_robot_emote_beeps_04.wav"
+  ]
+ },
+ "bunker_alarm": {
+  "group": "events",
+  "files": [
+   "bunker_alarm_1.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/z150_Bonus_Sounds/alarm_beep_clock_timer_01.wav"
+  ]
+ },
+ "stage_win": {
+  "group": "events",
+  "files": [
+   "stage_win_1.ogg"
+  ],
+  "source": [
+   "Gamemaster Audio - Fun Casual Sounds/Collectibles_Items_Powerup/jingle_chime_06_positive.wav"
+  ]
+ },
+ "explosion_small": {
+  "group": "combat",
+  "files": [
+   "explosion_small_1.ogg",
+   "explosion_small_2.ogg",
+   "explosion_small_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Explosions/EXPLDsgn_Explosion Impact_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Explosions/EXPLDsgn_Explosion Impact_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Explosions/EXPLDsgn_Explosion Impact_03.wav"
+  ]
+ },
+ "explosion_big": {
+  "group": "combat",
+  "files": [
+   "explosion_big_1.ogg",
+   "explosion_big_2.ogg",
+   "explosion_big_3.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Explosions/EXPLDsgn_Explosion Rumble Distorted_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Explosions/EXPLDsgn_Explosion Rumble Distorted_02.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Explosions/EXPLDsgn_Explosion Rumble Distorted_03.wav"
+  ]
+ },
+ "implode": {
+  "group": "combat",
+  "files": [
+   "implode_1.ogg",
+   "implode_2.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Explosions/EXPLDsgn_Implode_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Explosions/EXPLDsgn_Implode_02.wav"
+  ]
+ },
+ "timer_beeps": {
+  "group": "combat",
+  "files": [
+   "timer_beeps_1.ogg",
+   "timer_beeps_2.ogg"
+  ],
+  "source": [
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Explosions/BEEPTimer_Anticipation Beeps_01.wav",
+   "Shapeforms - Sci-Fi Weapons Cyberpunk Arsenal/Explosions/BEEPTimer_Anticipation Beeps_02.wav"
+  ]
+ }
+}
