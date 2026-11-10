@@ -8,12 +8,12 @@
 //    hash of its contents, so a publish re-downloads only the models that actually changed.
 //  - After the game's first screen is up, the page sends 'warm' and every model not yet saved is fetched, so the
 //    second launch is fast and the whole game (later bosses too) plays offline.
-const VERSION = '20261110-102038';
+const VERSION = '20261110-170838';
 const CACHE = 'gravewired-' + VERSION;
 const MODELS_CACHE = 'gravewired-models';
 
 const CORE = ["./", "index.html", "app-icon/icon-192.png", "app-icon/icon-512.png", "app-icon/icon-maskable-512.png", "manifest.webmanifest"];
-const ASSETS = ["assets/index-1J4-5sWr.js", "assets/index-kbY0l1nr.js", "assets/main-CYciURcS.js", "assets/native-zRxH_rli.js", "assets/server.worker-BahzvFSS.js", "assets/web-DfV_7VCg.js", "assets/web-dKkfE_-p.js", "assets/web-DUanrlf1.js", "assets/web-GYjQOZ9g.js"];
+const ASSETS = ["assets/index-BsDoEEsT.js", "assets/index-zUO36qPe.js", "assets/main-D3su2Reb.js", "assets/native-KUfyGRVh.js", "assets/server.worker-m1ZcLEEm.js", "assets/web-BuBh3Zpv.js", "assets/web-C203W6wN.js", "assets/web-CWaU18z1.js", "assets/web-rnBPqj5U.js"];
 /** [path, content hash] for every file under models_opt/. */
 const MODELS = [["art_opt/district_D01_atlas.webp", '75b53f71dda3'],
   ["art_opt/district_D02_atlas.webp", '0b6b347abd1b'],
