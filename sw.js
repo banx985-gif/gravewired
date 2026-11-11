@@ -8,12 +8,12 @@
 //    hash of its contents, so a publish re-downloads only the models that actually changed.
 //  - After the game's first screen is up, the page sends 'warm' and every model not yet saved is fetched, so the
 //    second launch is fast and the whole game (later bosses too) plays offline.
-const VERSION = '20261111-051803';
+const VERSION = '20261111-084534';
 const CACHE = 'gravewired-' + VERSION;
 const MODELS_CACHE = 'gravewired-models';
 
 const CORE = ["./", "index.html", "app-icon/icon-192.png", "app-icon/icon-512.png", "app-icon/icon-maskable-512.png", "manifest.webmanifest"];
-const ASSETS = ["assets/index-D-9dZVcL.js", "assets/index-D7BKAlHx.js", "assets/main-B7uCnesw.js", "assets/native-CjFDn9MD.js", "assets/server.worker-CFOMrxNk.js", "assets/web-Bf-AmWzF.js", "assets/web-DrmJQJcg.js", "assets/web-DX8IGq01.js", "assets/web-Dy3rsYxr.js"];
+const ASSETS = ["assets/index-5WJlM-ZR.js", "assets/index-BFgvj4Zp.js", "assets/main-Ickg2Mj-.js", "assets/native-i9zKKhz_.js", "assets/server.worker-Cx5Y-iug.js", "assets/web-Bn_mIHPz.js", "assets/web-C-Xp9Po0.js", "assets/web-C3jPvO1b.js", "assets/web-TwqG_smd.js"];
 /** [path, content hash] for every file under models_opt/. */
 const MODELS = [["art_opt/district_D01_atlas.webp", '75b53f71dda3'],
   ["art_opt/district_D02_atlas.webp", '0b6b347abd1b'],
@@ -25,18 +25,28 @@ const MODELS = [["art_opt/district_D01_atlas.webp", '75b53f71dda3'],
   ["art_opt/floor/D01_asphalt.webp", 'ef83e8da3c9d'],
   ["art_opt/floor/D01_cracked_paving.webp", '49ad2043359d'],
   ["art_opt/floor/D01_shop_tile.webp", '4e0c769846a7'],
+  ["art_opt/floor/D01_wall.webp", '345c86f404bf'],
+  ["art_opt/floor/D01_wall_band.webp", 'bc40a23b1579'],
   ["art_opt/floor/D02_platform_concrete.webp", '6008a46bcba2'],
   ["art_opt/floor/D02_service_tile.webp", 'e7f737d45d1b'],
   ["art_opt/floor/D02_shallow_water.webp", 'e53f1396c253'],
+  ["art_opt/floor/D02_wall.webp", 'cf965d0e2336'],
+  ["art_opt/floor/D02_wall_band.webp", '42ded3f33be5'],
   ["art_opt/floor/D03_cable_concrete.webp", '97306b46d9cf'],
   ["art_opt/floor/D03_insulated_tile.webp", '53ac1642921c'],
   ["art_opt/floor/D03_metal_plate.webp", 'a281849a0f34'],
+  ["art_opt/floor/D03_wall.webp", 'd6fca5d086d8'],
+  ["art_opt/floor/D03_wall_band.webp", '033f410678c7'],
   ["art_opt/floor/D04_greenhouse_tile.webp", '2f8ba18cbd9e'],
   ["art_opt/floor/D04_moss_floor.webp", '24732645701d'],
   ["art_opt/floor/D04_root_soil.webp", '0d358210ee2f'],
+  ["art_opt/floor/D04_wall.webp", 'ca668e5e9f49'],
+  ["art_opt/floor/D04_wall_band.webp", '4c0bbe33d0de'],
   ["art_opt/floor/D05_conveyor_floor.webp", 'a1fcebee4094'],
   ["art_opt/floor/D05_rust_plate.webp", '3d9d44a6cc16'],
   ["art_opt/floor/D05_scrap_concrete.webp", 'a020ffd935bb'],
+  ["art_opt/floor/D05_wall.webp", '4d03b0d0c818'],
+  ["art_opt/floor/D05_wall_band.webp", '4363b55bff9e'],
   ["art_opt/floor/D06_circuit_floor.webp", '6798c3236659'],
   ["art_opt/floor/D06_containment_floor.webp", 'b35afba9b723'],
   ["art_opt/floor/D06_lab_tile.webp", '704dd456899c'],
