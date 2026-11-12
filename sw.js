@@ -8,12 +8,12 @@
 //    hash of its contents, so a publish re-downloads only the models that actually changed.
 //  - After the game's first screen is up, the page sends 'warm' and every model not yet saved is fetched, so the
 //    second launch is fast and the whole game (later bosses too) plays offline.
-const VERSION = '20261112-064950';
+const VERSION = '20261112-084903';
 const CACHE = 'gravewired-' + VERSION;
 const MODELS_CACHE = 'gravewired-models';
 
 const CORE = ["./", "index.html", "app-icon/icon-192.png", "app-icon/icon-512.png", "app-icon/icon-maskable-512.png", "manifest.webmanifest"];
-const ASSETS = ["assets/index-AlhMh4fm.js", "assets/index-C2pthuR_.js", "assets/main-BAEaKQnm.js", "assets/native-JY1vIfNt.js", "assets/server.worker-BT1qpjnq.js", "assets/web-bkjnhpwO.js", "assets/web-CcHlrVb2.js", "assets/web-Ck7qRs9B.js", "assets/web-uyG4yzM3.js"];
+const ASSETS = ["assets/index-BVdMMeSM.js", "assets/index-Dd4bFJL4.js", "assets/main-D2P9IS3L.js", "assets/native-9LQp_IzZ.js", "assets/server.worker-potTPYIU.js", "assets/web-BGBrH7wo.js", "assets/web-CTdNjMqs.js", "assets/web-Dmkuv9RF.js", "assets/web-Hb4MUx8S.js"];
 /** [path, content hash] for every file under models_opt/. */
 const MODELS = [["art_opt/decals_D01_atlas.webp", '8fd5edf2bc59'],
   ["art_opt/decals_D02_atlas.webp", 'e3bc92ab07fd'],
@@ -614,6 +614,14 @@ const MODELS = [["art_opt/decals_D01_atlas.webp", '8fd5edf2bc59'],
   ["models_opt/heroes/H07_vex_neon.png", '86c6f01798b6'],
   ["models_opt/heroes/H08_nova.glb", '35f1d02c0756'],
   ["models_opt/heroes/H08_nova_neon.png", '8197a55cdb6a'],
+  ["models_opt/heroes/NPC_fern.glb", '5f2763742d6b'],
+  ["models_opt/heroes/NPC_fern_neon.png", 'f449a27c46bf'],
+  ["models_opt/heroes/NPC_gus.glb", '6e11952e5038'],
+  ["models_opt/heroes/NPC_gus_neon.png", '62e5a2734835'],
+  ["models_opt/heroes/NPC_kade.glb", 'f4bcd89441ed'],
+  ["models_opt/heroes/NPC_kade_neon.png", 'ab4122c9c075'],
+  ["models_opt/heroes/NPC_mechanic.glb", '26ec69464c92'],
+  ["models_opt/heroes/NPC_mechanic_neon.png", 'd4fe26cb866d'],
   ["models_opt/icons/G01_pulse_grenade.webp", 'dfd502d70214'],
   ["models_opt/icons/G02_decoy_beacon.webp", '3d3c5d5930c1'],
   ["models_opt/icons/G03_shield_emitter.webp", 'abc9645929b9'],
@@ -812,6 +820,14 @@ const MODELS = [["art_opt/decals_D01_atlas.webp", '8fd5edf2bc59'],
   ["models_opt/icons/W30E3_time_echo.webp", '273190bb57f3'],
   ["models_opt/icons/W30E4_collapse.webp", 'af4d611c686e'],
   ["models_opt/icons/W30_quantum_yoyo.webp", '6bf9291ada83'],
+  ["models_opt/weapons/PAID_P01_hellfire.glb", '3129fee90b07'],
+  ["models_opt/weapons/PAID_P01_hellfire_mayhem.glb", '3faeb98a4783'],
+  ["models_opt/weapons/PAID_P02_thunderjaw.glb", '57b0d90da139'],
+  ["models_opt/weapons/PAID_P02_thunderjaw_mayhem.glb", '2f30eed632a9'],
+  ["models_opt/weapons/PAID_P03_widowmaker.glb", '337ea80f4729'],
+  ["models_opt/weapons/PAID_P03_widowmaker_mayhem.glb", 'd94f2e709a3b'],
+  ["models_opt/weapons/PAID_P04_inferno_maw.glb", '17c40bea0228'],
+  ["models_opt/weapons/PAID_P10_neon_reaper.glb", '45ab6d7166f2'],
   ["models_opt/weapons/W01_rivet_gun.glb", 'e49db2aa5039'],
   ["models_opt/weapons/W02_scattergun.glb", 'a95063e1b018'],
   ["models_opt/weapons/W03_returning_saw.glb", 'ed2057e14ed5'],
