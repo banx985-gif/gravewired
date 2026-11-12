@@ -8,12 +8,12 @@
 //    hash of its contents, so a publish re-downloads only the models that actually changed.
 //  - After the game's first screen is up, the page sends 'warm' and every model not yet saved is fetched, so the
 //    second launch is fast and the whole game (later bosses too) plays offline.
-const VERSION = '20261112-084903';
+const VERSION = '20261112-125751';
 const CACHE = 'gravewired-' + VERSION;
 const MODELS_CACHE = 'gravewired-models';
 
 const CORE = ["./", "index.html", "app-icon/icon-192.png", "app-icon/icon-512.png", "app-icon/icon-maskable-512.png", "manifest.webmanifest"];
-const ASSETS = ["assets/index-BVdMMeSM.js", "assets/index-Dd4bFJL4.js", "assets/main-D2P9IS3L.js", "assets/native-9LQp_IzZ.js", "assets/server.worker-potTPYIU.js", "assets/web-BGBrH7wo.js", "assets/web-CTdNjMqs.js", "assets/web-Dmkuv9RF.js", "assets/web-Hb4MUx8S.js"];
+const ASSETS = ["assets/index-CMiKUvSB.js", "assets/index-CYaFuCz8.js", "assets/main-BqEflWCP.js", "assets/native-CVhDjTbS.js", "assets/server.worker-CzC1pNiY.js", "assets/web-BsH1ZOju.js", "assets/web-Bysm3GV6.js", "assets/web-Dn0nxSyq.js", "assets/web-DpxS9PXm.js"];
 /** [path, content hash] for every file under models_opt/. */
 const MODELS = [["art_opt/decals_D01_atlas.webp", '8fd5edf2bc59'],
   ["art_opt/decals_D02_atlas.webp", 'e3bc92ab07fd'],
@@ -586,6 +586,7 @@ const MODELS = [["art_opt/decals_D01_atlas.webp", '8fd5edf2bc59'],
   ["models_opt/gear/GE09_lab_gloves.glb", 'baa5a6a09c5e'],
   ["models_opt/gear/GE10_blast_suit.glb", '1fb32774a69c'],
   ["models_opt/gear/GE11_rail_boots.glb", 'f668b2e048e0'],
+  ["models_opt/gear/GE12_grip_gloves.glb", '749bc06fd652'],
   ["models_opt/gear/GE13_insulator_suit.glb", 'a26c7de633ae'],
   ["models_opt/gear/GE14_moss_boots.glb", 'eb40020108ba'],
   ["models_opt/gear/GE15_lens_gloves.glb", '09b4b502d02c'],
@@ -845,6 +846,7 @@ const MODELS = [["art_opt/decals_D01_atlas.webp", '8fd5edf2bc59'],
   ["models_opt/weapons/W15_cryo_needle.glb", '42dd2a91f78b'],
   ["models_opt/weapons/W16_tesla_fork.glb", '2f5ce9035fdd'],
   ["models_opt/weapons/W17_harpoon.glb", '613f827b0cac'],
+  ["models_opt/weapons/W18_shard_sling.glb", 'ba1aa1cebd1f'],
   ["models_opt/weapons/W19_sonic_bell.glb", '5488de84bb83'],
   ["models_opt/weapons/W20_plasma_bow.glb", '6a5115ff6357'],
   ["models_opt/weapons/W21_acid_vial.glb", '47bfee6d42ba'],
