@@ -8,12 +8,12 @@
 //    hash of its contents, so a publish re-downloads only the models that actually changed.
 //  - After the game's first screen is up, the page sends 'warm' and every model not yet saved is fetched, so the
 //    second launch is fast and the whole game (later bosses too) plays offline.
-const VERSION = '20261112-154725';
+const VERSION = '20261113-062542';
 const CACHE = 'gravewired-' + VERSION;
 const MODELS_CACHE = 'gravewired-models';
 
 const CORE = ["./", "index.html", "app-icon/icon-192.png", "app-icon/icon-512.png", "app-icon/icon-maskable-512.png", "manifest.webmanifest"];
-const ASSETS = ["assets/index-CGTdHde6.js", "assets/index-DkHFKA_8.js", "assets/main-BvrWLWqc.js", "assets/native-CPewDPKm.js", "assets/server.worker-BEO-fyDS.js", "assets/web-DDYX-LUc.js", "assets/web-DnYzUgIU.js", "assets/web-DplCAcnA.js", "assets/web-DSKFCxti.js"];
+const ASSETS = ["assets/index-CyPGW_6o.js", "assets/index-DxMLTBrC.js", "assets/main-CrxiWZHJ.js", "assets/native-BlfimK-i.js", "assets/server.worker-BUvBVwhf.js", "assets/web-B7q_1q7a.js", "assets/web-DdEtcEj5.js", "assets/web-DkMeic2H.js", "assets/web-qhcIcUdb.js"];
 /** [path, content hash] for every file under models_opt/. */
 const MODELS = [["art_opt/decals_D01_atlas.webp", '8fd5edf2bc59'],
   ["art_opt/decals_D02_atlas.webp", 'e3bc92ab07fd'],
@@ -64,6 +64,7 @@ const MODELS = [["art_opt/decals_D01_atlas.webp", '8fd5edf2bc59'],
   ["art_opt/floor/D06_upper_floor.webp", 'bb90c6b4a7b8'],
   ["art_opt/floor/D06_wall.webp", '04abdf5d8348'],
   ["art_opt/floor/D06_wall_band.webp", '48f138b3fbc0'],
+  ["art_opt/floorlight_atlas.webp", 'c106f80b7b44'],
   ["art_opt/fx_atlas.webp", 'b17ad60f7903'],
   ["art_opt/interact_atlas.webp", '9ccc10c40bd7'],
   ["art_opt/npc/npc.stamp", 'fcc2403cd14e'],
@@ -501,6 +502,11 @@ const MODELS = [["art_opt/decals_D01_atlas.webp", '8fd5edf2bc59'],
   ["audio/sfx/xp_gem_3.ogg", 'a61720cd7478'],
   ["models/anims/backflip.glb", 'a1b9ff47521d'],
   ["models/anims/brooklyn.glb", '3a56a1119c3c'],
+  ["models/anims/b_1990.glb", '754711eeab4b'],
+  ["models/anims/b_crossleg.glb", '09f0860c680b'],
+  ["models/anims/b_footwork1.glb", 'ecad20910fe9'],
+  ["models/anims/b_swipes.glb", 'e5984bca3ad8'],
+  ["models/anims/b_uprock2.glb", 'c9254b7de178'],
   ["models/anims/e_run.glb", 'be4112d12180'],
   ["models/anims/flair.glb", 'd87f10f4b2de'],
   ["models/anims/footwork.glb", '857fe791b78e'],
