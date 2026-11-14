@@ -8,12 +8,12 @@
 //    hash of its contents, so a publish re-downloads only the models that actually changed.
 //  - After the game's first screen is up, the page sends 'warm' and every model not yet saved is fetched, so the
 //    second launch is fast and the whole game (later bosses too) plays offline.
-const VERSION = '20261114-112426';
+const VERSION = '20261114-183627';
 const CACHE = 'gravewired-' + VERSION;
 const MODELS_CACHE = 'gravewired-models';
 
 const CORE = ["./", "index.html", "app-icon/icon-192.png", "app-icon/icon-512.png", "app-icon/icon-maskable-512.png", "manifest.webmanifest"];
-const ASSETS = ["assets/index-CXDT5hkB.js", "assets/index-DlgbDYJM.js", "assets/main-QKf_uo_T.js", "assets/native-DBAth2gf.js", "assets/server.worker-BhnuIJ_W.js", "assets/web-BkC7XjO4.js", "assets/web-CCi3rwe3.js", "assets/web-D03CJJJg.js", "assets/web-DS4J8fow.js"];
+const ASSETS = ["assets/index-C51HiSyQ.js", "assets/index-XQsp7CZA.js", "assets/main-350gSylv.js", "assets/native-Ct_mI_7l.js", "assets/server.worker-DNgdAexp.js", "assets/web-BHQvPx_m.js", "assets/web-CobOrHeU.js", "assets/web-D0ox8asY.js", "assets/web-MMoLGJQ-.js"];
 /** [path, content hash] for every file under models_opt/. */
 const MODELS = [["art_opt/decals_D01_atlas.webp", '8fd5edf2bc59'],
   ["art_opt/decals_D02_atlas.webp", 'e3bc92ab07fd'],
@@ -121,6 +121,8 @@ const MODELS = [["art_opt/decals_D01_atlas.webp", '8fd5edf2bc59'],
   ["art_opt/pic/bg_SELECTION.webp", '39e23a76203f'],
   ["art_opt/pic/bg_SKILLS.webp", 'cdf74858da04'],
   ["art_opt/pic/bg_WORLD_MAP.webp", '9bb5263dcd74'],
+  ["art_opt/pic/cardback_skull.webp", '63b60a8ad8b2'],
+  ["art_opt/pic/card_spark.webp", '5e06d03d6b24'],
   ["art_opt/pic/event_BUNKER_BOARD_BG.webp", '2fa7b2d396c3'],
   ["art_opt/pic/event_BUNKER_PROMO_BANNER.webp", '4b33cb7b82fd'],
   ["art_opt/pic/event_BUNKER_STAGE_MAP_BG.webp", 'dc196def01a6'],
@@ -130,6 +132,8 @@ const MODELS = [["art_opt/decals_D01_atlas.webp", '8fd5edf2bc59'],
   ["art_opt/pic/event_SCRAPYARD_BOARD_BG.webp", '4239c967688e'],
   ["art_opt/pic/event_SCRAPYARD_PROMO_BANNER.webp", 'c8ae1da03bdd'],
   ["art_opt/pic/event_SCRAPYARD_STAGE_MAP_BG.webp", '6abf023e742b'],
+  ["art_opt/pic/heroart_H01.webp", '45995ab1c40d'],
+  ["art_opt/pic/heroart_H02.webp", '45db18cf9c49'],
   ["art_opt/pic/heroart_H03.webp", 'f668f923b8c0'],
   ["art_opt/pic/heroart_H04.webp", '4974869b78ba'],
   ["art_opt/pic/heroart_H05.webp", '330cfa9e5ed9'],
