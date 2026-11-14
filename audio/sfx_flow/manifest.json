@@ -1,0 +1,59 @@
+{
+ "flow_gun": {
+  "group": "weapons",
+  "files": [
+   "flow_gun_1.ogg",
+   "flow_gun_2.ogg",
+   "flow_gun_3.ogg"
+  ]
+ },
+ "flow_flame": {
+  "group": "weapons",
+  "files": [
+   "flow_flame_1.ogg"
+  ]
+ },
+ "flow_explosion": {
+  "group": "combat",
+  "files": [
+   "flow_explosion_1.ogg"
+  ]
+ },
+ "flow_explosion_big": {
+  "group": "combat",
+  "files": [
+   "flow_explosion_big_1.ogg"
+  ]
+ },
+ "flow_chain": {
+  "group": "combat",
+  "files": [
+   "flow_chain_1.ogg"
+  ]
+ },
+ "flow_mayhem": {
+  "group": "combat",
+  "files": [
+   "flow_mayhem_1.ogg"
+  ]
+ },
+ "flow_boss_roar": {
+  "group": "combat",
+  "files": [
+   "flow_boss_roar_1.ogg"
+  ]
+ },
+ "flow_boss_smash": {
+  "group": "combat",
+  "files": [
+   "flow_boss_smash_1.ogg"
+  ]
+ },
+ "flow_boss_stomp": {
+  "group": "combat",
+  "files": [
+   "flow_boss_stomp_1.ogg",
+   "flow_boss_stomp_2.ogg"
+  ]
+ }
+}
