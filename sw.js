@@ -8,12 +8,12 @@
 //    hash of its contents, so a publish re-downloads only the models that actually changed.
 //  - After the game's first screen is up, the page sends 'warm' and every model not yet saved is fetched, so the
 //    second launch is fast and the whole game (later bosses too) plays offline.
-const VERSION = '20261114-092040';
+const VERSION = '20261114-093341';
 const CACHE = 'gravewired-' + VERSION;
 const MODELS_CACHE = 'gravewired-models';
 
 const CORE = ["./", "index.html", "app-icon/icon-192.png", "app-icon/icon-512.png", "app-icon/icon-maskable-512.png", "manifest.webmanifest"];
-const ASSETS = ["assets/index-BMC-pfit.js", "assets/index-Bp0QHRMv.js", "assets/main-BumRsTtN.js", "assets/native-uIAMD--a.js", "assets/server.worker-DO476DrX.js", "assets/web-BsHbnFZT.js", "assets/web-BUWDT_OF.js", "assets/web-choTD6Kr.js", "assets/web-DVnHxP8G.js"];
+const ASSETS = ["assets/index-DillaVxb.js", "assets/index-Dt6oGxor.js", "assets/main-DXsvIIbp.js", "assets/native-C8LUzaOz.js", "assets/server.worker-DO476DrX.js", "assets/web-b8gnU2Z2.js", "assets/web-DbK6Ao80.js", "assets/web-DWLH38QL.js", "assets/web-onNq5ClH.js"];
 /** [path, content hash] for every file under models_opt/. */
 const MODELS = [["art_opt/decals_D01_atlas.webp", '8fd5edf2bc59'],
   ["art_opt/decals_D02_atlas.webp", 'e3bc92ab07fd'],
@@ -130,6 +130,12 @@ const MODELS = [["art_opt/decals_D01_atlas.webp", '8fd5edf2bc59'],
   ["art_opt/pic/event_SCRAPYARD_BOARD_BG.webp", '4239c967688e'],
   ["art_opt/pic/event_SCRAPYARD_PROMO_BANNER.webp", 'c8ae1da03bdd'],
   ["art_opt/pic/event_SCRAPYARD_STAGE_MAP_BG.webp", '6abf023e742b'],
+  ["art_opt/pic/heroart_H03.webp", 'f668f923b8c0'],
+  ["art_opt/pic/heroart_H04.webp", '4974869b78ba'],
+  ["art_opt/pic/heroart_H05.webp", '330cfa9e5ed9'],
+  ["art_opt/pic/heroart_H06.webp", '84ae38fb63af'],
+  ["art_opt/pic/heroart_H07.webp", '2303f85bd7e6'],
+  ["art_opt/pic/heroart_H08.webp", '17969828e3fe'],
   ["art_opt/pic/loading_art.webp", '2a20d4ad9e19'],
   ["art_opt/pic/logo_wide.webp", '659780d4c48b'],
   ["art_opt/pic/name_B01.webp", '529d811b7f73'],
