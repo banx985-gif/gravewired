@@ -8,12 +8,12 @@
 //    hash of its contents, so a publish re-downloads only the models that actually changed.
 //  - After the game's first screen is up, the page sends 'warm' and every model not yet saved is fetched, so the
 //    second launch is fast and the whole game (later bosses too) plays offline.
-const VERSION = '20261114-183627';
+const VERSION = '20261115-081058';
 const CACHE = 'gravewired-' + VERSION;
 const MODELS_CACHE = 'gravewired-models';
 
 const CORE = ["./", "index.html", "app-icon/icon-192.png", "app-icon/icon-512.png", "app-icon/icon-maskable-512.png", "manifest.webmanifest"];
-const ASSETS = ["assets/index-C51HiSyQ.js", "assets/index-XQsp7CZA.js", "assets/main-350gSylv.js", "assets/native-Ct_mI_7l.js", "assets/server.worker-DNgdAexp.js", "assets/web-BHQvPx_m.js", "assets/web-CobOrHeU.js", "assets/web-D0ox8asY.js", "assets/web-MMoLGJQ-.js"];
+const ASSETS = ["assets/index-C3AasASR.js", "assets/index-MrJSRf04.js", "assets/main-BHmbPUz1.js", "assets/native-B1cnzZ28.js", "assets/server.worker-dkt3N-li.js", "assets/web-CgTKlJQk.js", "assets/web-CTcmRAHw.js", "assets/web-DFWVIEbl.js", "assets/web-DHNqot7T.js"];
 /** [path, content hash] for every file under models_opt/. */
 const MODELS = [["art_opt/decals_D01_atlas.webp", '8fd5edf2bc59'],
   ["art_opt/decals_D02_atlas.webp", 'e3bc92ab07fd'],
@@ -523,20 +523,24 @@ const MODELS = [["art_opt/decals_D01_atlas.webp", '8fd5edf2bc59'],
   ["audio/sfx/xp_gem_1.ogg", '0c9fb9a8322a'],
   ["audio/sfx/xp_gem_2.ogg", '7ec45a1a83f6'],
   ["audio/sfx/xp_gem_3.ogg", 'a61720cd7478'],
-  ["audio/sfx_flow/.stamp", '2bb3c28d4002'],
-  ["audio/sfx_flow/flow_boss_roar_1.ogg", '0db6a42cfd41'],
-  ["audio/sfx_flow/flow_boss_smash_1.ogg", '755eda59ce15'],
-  ["audio/sfx_flow/flow_boss_stomp_1.ogg", 'a94ad6de2c20'],
-  ["audio/sfx_flow/flow_boss_stomp_2.ogg", '3284cd302dda'],
-  ["audio/sfx_flow/flow_chain_1.ogg", 'e603961bfb8e'],
-  ["audio/sfx_flow/flow_explosion_1.ogg", 'c0319929c1dc'],
-  ["audio/sfx_flow/flow_explosion_big_1.ogg", 'ce107d54db8f'],
-  ["audio/sfx_flow/flow_flame_1.ogg", 'd46f32eaad91'],
-  ["audio/sfx_flow/flow_gun_1.ogg", 'd1d9d6ccfff5'],
-  ["audio/sfx_flow/flow_gun_2.ogg", '47ea58885bf6'],
-  ["audio/sfx_flow/flow_gun_3.ogg", '58db5c736fb1'],
-  ["audio/sfx_flow/flow_mayhem_1.ogg", '706fe3a2e4a0'],
-  ["audio/sfx_flow/manifest.json", '3e9ead0b1cba'],
+  ["audio/sfx_flow/.stamp", '630c22371d06'],
+  ["audio/sfx_flow/flow_boss_roar_1.ogg", 'bff69e248fbf'],
+  ["audio/sfx_flow/flow_boss_smash_1.ogg", '05aa92f0f7a3'],
+  ["audio/sfx_flow/flow_boss_stomp_1.ogg", 'c490c277ef19'],
+  ["audio/sfx_flow/flow_boss_stomp_2.ogg", '1ea63ff014ef'],
+  ["audio/sfx_flow/flow_chain_1.ogg", 'edc4627e1740'],
+  ["audio/sfx_flow/flow_explosion_1.ogg", '8e1b9c377733'],
+  ["audio/sfx_flow/flow_explosion_big_1.ogg", '30c593baa59e'],
+  ["audio/sfx_flow/flow_flame_1.ogg", '987b5aa9f8ac'],
+  ["audio/sfx_flow/flow_gun_1.ogg", '4ab7ca4690df'],
+  ["audio/sfx_flow/flow_gun_2.ogg", '43b7a7f0cde5'],
+  ["audio/sfx_flow/flow_gun_3.ogg", '2297888664ed'],
+  ["audio/sfx_flow/flow_gun_4.ogg", 'a298f44ef848'],
+  ["audio/sfx_flow/flow_gun_5.ogg", 'ff56b6c9c189'],
+  ["audio/sfx_flow/flow_gun_6.ogg", 'cd219b3f8de8'],
+  ["audio/sfx_flow/flow_mayhem_1.ogg", '5a3b7ed55da9'],
+  ["audio/sfx_flow/flow_twirl_1.ogg", '3afca166052e'],
+  ["audio/sfx_flow/manifest.json", 'f85a1ea2626b'],
   ["models/anims/backflip.glb", 'a1b9ff47521d'],
   ["models/anims/brooklyn.glb", '3a56a1119c3c'],
   ["models/anims/b_1990.glb", '754711eeab4b'],

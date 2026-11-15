@@ -4,7 +4,16 @@
   "files": [
    "flow_gun_1.ogg",
    "flow_gun_2.ogg",
-   "flow_gun_3.ogg"
+   "flow_gun_3.ogg",
+   "flow_gun_4.ogg",
+   "flow_gun_5.ogg",
+   "flow_gun_6.ogg"
+  ]
+ },
+ "flow_twirl": {
+  "group": "ui",
+  "files": [
+   "flow_twirl_1.ogg"
   ]
  },
  "flow_flame": {
