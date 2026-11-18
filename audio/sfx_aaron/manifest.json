@@ -1,0 +1,1493 @@
+{
+ "aw_P01_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_P01_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/P01_fire.mp3"
+  ]
+ },
+ "aw_P01_mayhem": {
+  "group": "aweapons",
+  "files": [
+   "aw_P01_mayhem_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/P01_mayhem.mp3"
+  ]
+ },
+ "aw_P02_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_P02_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/P02_fire.mp3"
+  ]
+ },
+ "aw_P02_mayhem": {
+  "group": "aweapons",
+  "files": [
+   "aw_P02_mayhem_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/P02_mayhem.mp3"
+  ]
+ },
+ "aw_P03_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_P03_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/P03_fire.mp3"
+  ]
+ },
+ "aw_P03_mayhem": {
+  "group": "aweapons",
+  "files": [
+   "aw_P03_mayhem_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/P03_mayhem.mp3"
+  ]
+ },
+ "aw_P04_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_P04_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/P04_fire.mp3"
+  ]
+ },
+ "aw_P04_mayhem": {
+  "group": "aweapons",
+  "files": [
+   "aw_P04_mayhem_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/P04_mayhem.mp3"
+  ]
+ },
+ "aw_P05_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_P05_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/P05_fire.mp3"
+  ]
+ },
+ "aw_P05_mayhem": {
+  "group": "aweapons",
+  "files": [
+   "aw_P05_mayhem_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/P05_mayhem.mp3"
+  ]
+ },
+ "aw_P06_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_P06_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/P06_fire.mp3"
+  ]
+ },
+ "aw_P06_mayhem": {
+  "group": "aweapons",
+  "files": [
+   "aw_P06_mayhem_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/P06_mayhem.mp3"
+  ]
+ },
+ "aw_P07_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_P07_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/P07_fire.mp3"
+  ]
+ },
+ "aw_P07_mayhem": {
+  "group": "aweapons",
+  "files": [
+   "aw_P07_mayhem_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/P07_mayhem.mp3"
+  ]
+ },
+ "aw_P08_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_P08_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/P08_fire.mp3"
+  ]
+ },
+ "aw_P08_mayhem": {
+  "group": "aweapons",
+  "files": [
+   "aw_P08_mayhem_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/P08_mayhem.mp3"
+  ]
+ },
+ "aw_P09_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_P09_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/P09_fire.mp3"
+  ]
+ },
+ "aw_P09_mayhem": {
+  "group": "aweapons",
+  "files": [
+   "aw_P09_mayhem_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/P09_mayhem.mp3"
+  ]
+ },
+ "aw_P10_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_P10_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/P10_fire.mp3"
+  ]
+ },
+ "aw_P10_mayhem": {
+  "group": "aweapons",
+  "files": [
+   "aw_P10_mayhem_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/P10_mayhem.mp3"
+  ]
+ },
+ "aw_W01_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W01_fire_1.ogg",
+   "aw_W01_fire_2.ogg",
+   "aw_W01_fire_3.ogg",
+   "aw_W01_fire_4.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W01_fire_A.mp3",
+   "sfx_weapons/W01_fire_B.mp3",
+   "sfx_weapons/W01_fire_C.mp3",
+   "sfx_weapons/W01_fire_D.mp3"
+  ]
+ },
+ "aw_W01_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W01_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W01_hit.mp3"
+  ]
+ },
+ "aw_W02_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W02_fire_1.ogg",
+   "aw_W02_fire_2.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W02_fire_A.mp3",
+   "sfx_weapons/W02_fire_B.mp3"
+  ]
+ },
+ "aw_W02_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W02_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W02_hit.mp3"
+  ]
+ },
+ "aw_W03_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W03_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W03_fire.mp3"
+  ]
+ },
+ "aw_W03_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W03_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W03_hit.mp3"
+  ]
+ },
+ "aw_W04_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W04_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W04_fire.mp3"
+  ]
+ },
+ "aw_W04_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W04_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W04_hit.mp3"
+  ]
+ },
+ "aw_W05_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W05_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W05_fire.mp3"
+  ]
+ },
+ "aw_W05_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W05_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W05_hit.mp3"
+  ]
+ },
+ "aw_W06_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W06_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W06_fire.mp3"
+  ]
+ },
+ "aw_W06_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W06_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W06_hit.mp3"
+  ]
+ },
+ "aw_W07_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W07_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W07_fire.mp3"
+  ]
+ },
+ "aw_W07_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W07_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W07_hit.mp3"
+  ]
+ },
+ "aw_W08_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W08_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W08_fire.mp3"
+  ]
+ },
+ "aw_W08_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W08_hit_1.ogg",
+   "aw_W08_hit_2.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W08_hit.mp3",
+   "sfx_weapons/W08_hit_B.mp3"
+  ]
+ },
+ "aw_W09_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W09_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W09_fire.mp3"
+  ]
+ },
+ "aw_W09_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W09_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W09_hit.mp3"
+  ]
+ },
+ "aw_W10_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W10_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W10_fire.mp3"
+  ]
+ },
+ "aw_W10_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W10_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W10_hit.mp3"
+  ]
+ },
+ "aw_W11_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W11_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W11_fire.mp3"
+  ]
+ },
+ "aw_W11_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W11_hit_1.ogg",
+   "aw_W11_hit_2.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W11_hit.mp3",
+   "sfx_weapons/W11_hit_B.mp3"
+  ]
+ },
+ "aw_W12_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W12_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W12_fire.mp3"
+  ]
+ },
+ "aw_W12_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W12_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W12_hit.mp3"
+  ]
+ },
+ "aw_W13_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W13_fire_1.ogg",
+   "aw_W13_fire_2.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W13_fire_A.mp3",
+   "sfx_weapons/W13_fire_B.mp3"
+  ]
+ },
+ "aw_W13_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W13_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W13_hit.mp3"
+  ]
+ },
+ "aw_W14_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W14_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W14_fire.mp3"
+  ]
+ },
+ "aw_W14_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W14_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W14_hit.mp3"
+  ]
+ },
+ "aw_W15_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W15_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W15_fire.mp3"
+  ]
+ },
+ "aw_W15_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W15_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W15_hit.mp3"
+  ]
+ },
+ "aw_W16_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W16_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W16_fire.mp3"
+  ]
+ },
+ "aw_W16_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W16_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W16_hit.mp3"
+  ]
+ },
+ "aw_W17_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W17_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W17_fire.mp3"
+  ]
+ },
+ "aw_W17_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W17_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W17_hit.mp3"
+  ]
+ },
+ "aw_W18_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W18_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W18_fire.mp3"
+  ]
+ },
+ "aw_W18_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W18_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W18_hit.mp3"
+  ]
+ },
+ "aw_W19_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W19_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W19_fire.mp3"
+  ]
+ },
+ "aw_W19_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W19_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W19_hit.mp3"
+  ]
+ },
+ "aw_W20_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W20_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W20_fire.mp3"
+  ]
+ },
+ "aw_W20_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W20_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W20_hit.mp3"
+  ]
+ },
+ "aw_W21_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W21_fire_1.ogg",
+   "aw_W21_fire_2.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W21_fire.mp3",
+   "sfx_weapons/W21_fire_B.mp3"
+  ]
+ },
+ "aw_W21_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W21_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W21_hit.mp3"
+  ]
+ },
+ "aw_W22_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W22_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W22_fire.mp3"
+  ]
+ },
+ "aw_W22_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W22_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W22_hit.mp3"
+  ]
+ },
+ "aw_W23_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W23_fire_1.ogg",
+   "aw_W23_fire_2.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W23_fire_A.mp3",
+   "sfx_weapons/W23_fire_B.mp3"
+  ]
+ },
+ "aw_W23_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W23_hit_1.ogg",
+   "aw_W23_hit_2.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W23_hit.mp3",
+   "sfx_weapons/W23_hit_B.mp3"
+  ]
+ },
+ "aw_W24_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W24_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W24_fire.mp3"
+  ]
+ },
+ "aw_W24_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W24_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W24_hit.mp3"
+  ]
+ },
+ "aw_W25_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W25_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W25_fire.mp3"
+  ]
+ },
+ "aw_W25_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W25_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W25_hit.mp3"
+  ]
+ },
+ "aw_W26_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W26_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W26_fire.mp3"
+  ]
+ },
+ "aw_W26_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W26_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W26_hit.mp3"
+  ]
+ },
+ "aw_W27_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W27_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W27_fire.mp3"
+  ]
+ },
+ "aw_W27_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W27_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W27_hit.mp3"
+  ]
+ },
+ "aw_W28_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W28_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W28_fire.mp3"
+  ]
+ },
+ "aw_W28_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W28_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W28_hit.mp3"
+  ]
+ },
+ "aw_W29_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W29_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W29_fire.mp3"
+  ]
+ },
+ "aw_W29_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W29_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W29_hit.mp3"
+  ]
+ },
+ "aw_W30_fire": {
+  "group": "aweapons",
+  "files": [
+   "aw_W30_fire_1.ogg",
+   "aw_W30_fire_2.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W30_fire.mp3",
+   "sfx_weapons/W30_fire_B.mp3"
+  ]
+ },
+ "aw_W30_hit": {
+  "group": "aweapons",
+  "files": [
+   "aw_W30_hit_1.ogg",
+   "aw_W30_hit_2.ogg"
+  ],
+  "source": [
+   "sfx_weapons/W30_hit.mp3",
+   "sfx_weapons/W30_hit_B.mp3"
+  ]
+ },
+ "ag_G01_blast": {
+  "group": "agadgets",
+  "files": [
+   "ag_G01_blast_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G01_blast.mp3"
+  ]
+ },
+ "ag_G01_use": {
+  "group": "agadgets",
+  "files": [
+   "ag_G01_use_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G01_use.mp3"
+  ]
+ },
+ "ag_G02_beep": {
+  "group": "agadgets",
+  "files": [
+   "ag_G02_beep_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G02_beep.mp3"
+  ]
+ },
+ "ag_G02_use": {
+  "group": "agadgets",
+  "files": [
+   "ag_G02_use_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G02_use.mp3"
+  ]
+ },
+ "ag_G03_off": {
+  "group": "agadgets",
+  "files": [
+   "ag_G03_off_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G03_off.mp3"
+  ]
+ },
+ "ag_G03_use": {
+  "group": "agadgets",
+  "files": [
+   "ag_G03_use_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G03_use.mp3"
+  ]
+ },
+ "ag_G04_fire": {
+  "group": "agadgets",
+  "files": [
+   "ag_G04_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G04_fire.mp3"
+  ]
+ },
+ "ag_G04_reel": {
+  "group": "agadgets",
+  "files": [
+   "ag_G04_reel_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G04_reel.mp3"
+  ]
+ },
+ "ag_G05_use": {
+  "group": "agadgets",
+  "files": [
+   "ag_G05_use_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G05_use.mp3"
+  ]
+ },
+ "ag_G05_zap": {
+  "group": "agadgets",
+  "files": [
+   "ag_G05_zap_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G05_zap.mp3"
+  ]
+ },
+ "ag_G06_heal": {
+  "group": "agadgets",
+  "files": [
+   "ag_G06_heal_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G06_heal.mp3"
+  ]
+ },
+ "ag_G06_use": {
+  "group": "agadgets",
+  "files": [
+   "ag_G06_use_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G06_use.mp3"
+  ]
+ },
+ "ag_G07_use": {
+  "group": "agadgets",
+  "files": [
+   "ag_G07_use_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G07_use.mp3"
+  ]
+ },
+ "ag_G08_splat": {
+  "group": "agadgets",
+  "files": [
+   "ag_G08_splat_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G08_splat.mp3"
+  ]
+ },
+ "ag_G08_use": {
+  "group": "agadgets",
+  "files": [
+   "ag_G08_use_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G08_use.mp3"
+  ]
+ },
+ "ag_G09_trigger": {
+  "group": "agadgets",
+  "files": [
+   "ag_G09_trigger_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G09_trigger.mp3"
+  ]
+ },
+ "ag_G09_use": {
+  "group": "agadgets",
+  "files": [
+   "ag_G09_use_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G09_use.mp3"
+  ]
+ },
+ "ag_G10_hiss": {
+  "group": "agadgets",
+  "files": [
+   "ag_G10_hiss_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G10_hiss.mp3"
+  ]
+ },
+ "ag_G10_use": {
+  "group": "agadgets",
+  "files": [
+   "ag_G10_use_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G10_use.mp3"
+  ]
+ },
+ "ag_G11_step": {
+  "group": "agadgets",
+  "files": [
+   "ag_G11_step_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G11_step.mp3"
+  ]
+ },
+ "ag_G11_use": {
+  "group": "agadgets",
+  "files": [
+   "ag_G11_use_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G11_use.mp3"
+  ]
+ },
+ "ag_G12_fire": {
+  "group": "agadgets",
+  "files": [
+   "ag_G12_fire_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G12_fire.mp3"
+  ]
+ },
+ "ag_G12_use": {
+  "group": "agadgets",
+  "files": [
+   "ag_G12_use_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G12_use.mp3"
+  ]
+ },
+ "ag_G13_shatter": {
+  "group": "agadgets",
+  "files": [
+   "ag_G13_shatter_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G13_shatter.mp3"
+  ]
+ },
+ "ag_G13_use": {
+  "group": "agadgets",
+  "files": [
+   "ag_G13_use_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G13_use.mp3"
+  ]
+ },
+ "ag_G14_use": {
+  "group": "agadgets",
+  "files": [
+   "ag_G14_use_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G14_use.mp3"
+  ]
+ },
+ "ag_G15_block": {
+  "group": "agadgets",
+  "files": [
+   "ag_G15_block_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G15_block.mp3"
+  ]
+ },
+ "ag_G15_use": {
+  "group": "agadgets",
+  "files": [
+   "ag_G15_use_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G15_use.mp3"
+  ]
+ },
+ "ag_G16_land": {
+  "group": "agadgets",
+  "files": [
+   "ag_G16_land_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G16_land.mp3"
+  ]
+ },
+ "ag_G16_use": {
+  "group": "agadgets",
+  "files": [
+   "ag_G16_use_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G16_use.mp3"
+  ]
+ },
+ "ag_G17_use": {
+  "group": "agadgets",
+  "files": [
+   "ag_G17_use_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G17_use.mp3"
+  ]
+ },
+ "ag_G18_use": {
+  "group": "agadgets",
+  "files": [
+   "ag_G18_use_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G18_use.mp3"
+  ]
+ },
+ "ag_G19_crunch": {
+  "group": "agadgets",
+  "files": [
+   "ag_G19_crunch_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G19_crunch.mp3"
+  ]
+ },
+ "ag_G19_use": {
+  "group": "agadgets",
+  "files": [
+   "ag_G19_use_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G19_use.mp3"
+  ]
+ },
+ "ag_G20_flip": {
+  "group": "agadgets",
+  "files": [
+   "ag_G20_flip_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G20_flip.mp3"
+  ]
+ },
+ "ag_G20_use": {
+  "group": "agadgets",
+  "files": [
+   "ag_G20_use_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G20_use.mp3"
+  ]
+ },
+ "ag_G21_bubble": {
+  "group": "agadgets",
+  "files": [
+   "ag_G21_bubble_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G21_bubble.mp3"
+  ]
+ },
+ "ag_G21_use": {
+  "group": "agadgets",
+  "files": [
+   "ag_G21_use_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G21_use.mp3"
+  ]
+ },
+ "ag_G22_use": {
+  "group": "agadgets",
+  "files": [
+   "ag_G22_use_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G22_use.mp3"
+  ]
+ },
+ "ag_G23_anchor": {
+  "group": "agadgets",
+  "files": [
+   "ag_G23_anchor_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G23_anchor.mp3"
+  ]
+ },
+ "ag_G23_use": {
+  "group": "agadgets",
+  "files": [
+   "ag_G23_use_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G23_use.mp3"
+  ]
+ },
+ "ag_G24_off": {
+  "group": "agadgets",
+  "files": [
+   "ag_G24_off_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G24_off.mp3"
+  ]
+ },
+ "ag_G24_use": {
+  "group": "agadgets",
+  "files": [
+   "ag_G24_use_1.ogg"
+  ],
+  "source": [
+   "sfx_gadgets/G24_use.mp3"
+  ]
+ },
+ "rw_boss_colossus_roar": {
+  "group": "rw_boss",
+  "files": [
+   "rw_boss_colossus_roar_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_BOSS_01_colossus_roar.mp3"
+  ]
+ },
+ "rw_boss_insect_queen_screech": {
+  "group": "rw_boss",
+  "files": [
+   "rw_boss_insect_queen_screech_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_BOSS_02_insect_queen_screech.mp3"
+  ]
+ },
+ "rw_boss_metal_beast_rage": {
+  "group": "rw_boss",
+  "files": [
+   "rw_boss_metal_beast_rage_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_BOSS_03_metal_beast_rage.mp3"
+  ]
+ },
+ "rw_boss_boss_pain": {
+  "group": "rw_boss",
+  "files": [
+   "rw_boss_boss_pain_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_BOSS_04_boss_pain.mp3"
+  ]
+ },
+ "rw_boss_butcher_roar": {
+  "group": "rw_boss",
+  "files": [
+   "rw_boss_butcher_roar_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_BOSS_05_butcher_roar.mp3"
+  ]
+ },
+ "rw_boss_electric_mutant": {
+  "group": "rw_boss",
+  "files": [
+   "rw_boss_electric_mutant_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_BOSS_06_electric_mutant.mp3"
+  ]
+ },
+ "rw_boss_overmind_call": {
+  "group": "rw_boss",
+  "files": [
+   "rw_boss_overmind_call_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_BOSS_07_overmind_call.mp3"
+  ]
+ },
+ "rw_combat_critical_hit": {
+  "group": "rw_combat",
+  "files": [
+   "rw_combat_critical_hit_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_COMBAT_01_critical_hit.mp3"
+  ]
+ },
+ "rw_combat_armor_break": {
+  "group": "rw_combat",
+  "files": [
+   "rw_combat_armor_break_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_COMBAT_02_armor_break.mp3"
+  ]
+ },
+ "rw_combat_perfect_dodge": {
+  "group": "rw_combat",
+  "files": [
+   "rw_combat_perfect_dodge_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_COMBAT_03_perfect_dodge.mp3"
+  ]
+ },
+ "rw_elec_arc_snap": {
+  "group": "rw_combat",
+  "files": [
+   "rw_elec_arc_snap_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_ELEC_01_arc_snap.mp3"
+  ]
+ },
+ "rw_elec_transformer_surge": {
+  "group": "rw_combat",
+  "files": [
+   "rw_elec_transformer_surge_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_ELEC_02_transformer_surge.mp3"
+  ]
+ },
+ "rw_elec_power_failure": {
+  "group": "rw_combat",
+  "files": [
+   "rw_elec_power_failure_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_ELEC_03_power_failure.mp3"
+  ]
+ },
+ "rw_elec_neon_flicker": {
+  "group": "rw_combat",
+  "files": [
+   "rw_elec_neon_flicker_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_ELEC_04_neon_flicker.mp3"
+  ]
+ },
+ "rw_env_glass_break": {
+  "group": "rw_combat",
+  "files": [
+   "rw_env_glass_break_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_ENV_01_glass_break.mp3"
+  ]
+ },
+ "rw_env_metal_crash": {
+  "group": "rw_combat",
+  "files": [
+   "rw_env_metal_crash_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_ENV_02_metal_crash.mp3"
+  ]
+ },
+ "rw_env_concrete_collapse": {
+  "group": "rw_combat",
+  "files": [
+   "rw_env_concrete_collapse_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_ENV_03_concrete_collapse.mp3"
+  ]
+ },
+ "rw_foot_concrete_run": {
+  "group": "rw_world",
+  "files": [
+   "rw_foot_concrete_run_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_FOOT_01_concrete_run.mp3"
+  ]
+ },
+ "rw_foot_metal_walk": {
+  "group": "rw_world",
+  "files": [
+   "rw_foot_metal_walk_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_FOOT_02_metal_walk.mp3"
+  ]
+ },
+ "rw_foot_water_splash": {
+  "group": "rw_world",
+  "files": [
+   "rw_foot_water_splash_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_FOOT_03_water_splash.mp3"
+  ]
+ },
+ "rw_loot_cash_pickup": {
+  "group": "rw_loot",
+  "files": [
+   "rw_loot_cash_pickup_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_LOOT_01_cash_pickup.mp3"
+  ]
+ },
+ "rw_loot_gem_pickup": {
+  "group": "rw_loot",
+  "files": [
+   "rw_loot_gem_pickup_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_LOOT_02_gem_pickup.mp3"
+  ]
+ },
+ "rw_loot_rare_drop": {
+  "group": "rw_loot",
+  "files": [
+   "rw_loot_rare_drop_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_LOOT_03_rare_drop.mp3"
+  ]
+ },
+ "rw_ui_press": {
+  "group": "rw_ui",
+  "files": [
+   "rw_ui_press_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_UI_01_press.mp3"
+  ]
+ },
+ "rw_ui_confirm": {
+  "group": "rw_ui",
+  "files": [
+   "rw_ui_confirm_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_UI_02_confirm.mp3"
+  ]
+ },
+ "rw_ui_back": {
+  "group": "rw_ui",
+  "files": [
+   "rw_ui_back_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_UI_03_back.mp3"
+  ]
+ },
+ "rw_ui_error": {
+  "group": "rw_ui",
+  "files": [
+   "rw_ui_error_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_UI_04_error.mp3"
+  ]
+ },
+ "rw_ui_menu_transition": {
+  "group": "rw_ui",
+  "files": [
+   "rw_ui_menu_transition_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_UI_05_menu_transition.mp3"
+  ]
+ },
+ "rw_ui_tab_select": {
+  "group": "rw_ui",
+  "files": [
+   "rw_ui_tab_select_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_UI_06_tab_select.mp3"
+  ]
+ },
+ "rw_ui_pause_open": {
+  "group": "rw_ui",
+  "files": [
+   "rw_ui_pause_open_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_UI_07_pause_open.mp3"
+  ]
+ },
+ "rw_upgrade_purchase": {
+  "group": "rw_ui",
+  "files": [
+   "rw_upgrade_purchase_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_UPGRADE_01_purchase.mp3"
+  ]
+ },
+ "rw_upgrade_level_up": {
+  "group": "rw_ui",
+  "files": [
+   "rw_upgrade_level_up_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_UPGRADE_02_level_up.mp3"
+  ]
+ },
+ "rw_upgrade_skill_unlock": {
+  "group": "rw_ui",
+  "files": [
+   "rw_upgrade_skill_unlock_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_UPGRADE_03_skill_unlock.mp3"
+  ]
+ },
+ "rw_zombie_shambler_growl": {
+  "group": "rw_combat",
+  "files": [
+   "rw_zombie_shambler_growl_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_ZOMBIE_01_shambler_growl.mp3"
+  ]
+ },
+ "rw_zombie_shriek": {
+  "group": "rw_combat",
+  "files": [
+   "rw_zombie_shriek_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_ZOMBIE_02_shriek.mp3"
+  ]
+ },
+ "rw_zombie_attack": {
+  "group": "rw_combat",
+  "files": [
+   "rw_zombie_attack_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_ZOMBIE_03_attack.mp3"
+  ]
+ },
+ "rw_zombie_death": {
+  "group": "rw_combat",
+  "files": [
+   "rw_zombie_death_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_ZOMBIE_04_death.mp3"
+  ]
+ },
+ "rw_zombie_runner_screech": {
+  "group": "rw_combat",
+  "files": [
+   "rw_zombie_runner_screech_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_ZOMBIE_05_runner_screech.mp3"
+  ]
+ },
+ "rw_zombie_brute_bellow": {
+  "group": "rw_combat",
+  "files": [
+   "rw_zombie_brute_bellow_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_ZOMBIE_06_brute_bellow.mp3"
+  ]
+ },
+ "rw_zombie_spitter_hiss": {
+  "group": "rw_combat",
+  "files": [
+   "rw_zombie_spitter_hiss_1.ogg"
+  ],
+  "source": [
+   "sfx_runway/GW_SFX_ZOMBIE_07_spitter_hiss.mp3"
+  ]
+ }
+}
