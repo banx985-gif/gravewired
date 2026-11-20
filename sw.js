@@ -8,12 +8,12 @@
 //    hash of its contents, so a publish re-downloads only the models that actually changed.
 //  - After the game's first screen is up, the page sends 'warm' and every model not yet saved is fetched, so the
 //    second launch is fast and the whole game (later bosses too) plays offline.
-const VERSION = '20261119-173540';
+const VERSION = '20261120-020437';
 const CACHE = 'gravewired-' + VERSION;
 const MODELS_CACHE = 'gravewired-models';
 
 const CORE = ["./", "index.html", "app-icon/icon-192.png", "app-icon/icon-512.png", "app-icon/icon-maskable-512.png", "manifest.webmanifest"];
-const ASSETS = ["assets/index-B95jLzm7.js", "assets/index-Bhx0flA6.js", "assets/main-UmMCKSZS.js", "assets/native-gWCA_1j3.js", "assets/server.worker-DNbwLZV0.js", "assets/web-C3VMgaZK.js", "assets/web-D26lhw1t.js", "assets/web-DanVHVV0.js", "assets/web-DOZkOXGu.js"];
+const ASSETS = ["assets/index-DEENPWGI.js", "assets/index-Hvu9EOP2.js", "assets/main-DptVFZBz.js", "assets/native-Cs9qlYsc.js", "assets/server.worker-IMjqPdUW.js", "assets/web-BEeBIWgD.js", "assets/web-Bq25qEgM.js", "assets/web-BwspvsOc.js", "assets/web-CBFX4Etq.js"];
 /** [path, content hash] for every file under models_opt/. */
 const MODELS = [["art_opt/decals_D01_atlas.webp", '8fd5edf2bc59'],
   ["art_opt/decals_D02_atlas.webp", 'e3bc92ab07fd'],
@@ -78,9 +78,9 @@ const MODELS = [["art_opt/decals_D01_atlas.webp", '8fd5edf2bc59'],
   ["art_opt/floor/D06_wall.webp", '04abdf5d8348'],
   ["art_opt/floor/D06_wall_band.webp", '48f138b3fbc0'],
   ["art_opt/floorlight_atlas.webp", 'c106f80b7b44'],
-  ["art_opt/fx_anim.stamp", '81514a93730b'],
-  ["art_opt/fx_anim.webp", 'ba54aaf4a2b1'],
-  ["art_opt/fx_anim_1.webp", 'aff38552c8f7'],
+  ["art_opt/fx_anim.stamp", 'f44ca4153614'],
+  ["art_opt/fx_anim.webp", 'ddebaefe9f4c'],
+  ["art_opt/fx_anim_1.webp", '86f0c8d560de'],
   ["art_opt/fx_atlas.webp", 'b0075bec4c4e'],
   ["art_opt/graffiti_atlas.webp", 'c172f31ec1f4'],
   ["art_opt/hideout_atlas.webp", 'ddb660f33499'],
